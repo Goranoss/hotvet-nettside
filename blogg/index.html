@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Blogg – helseinformasjon | Hotvet legesenter</title>
+<meta name="description" content="Praktiske guider om fastlege, helse og rettigheter fra Hotvet legesenter i Drammen. Tips om bytte av fastlege, helseundersøkelser og mer.">
+<meta name="robots" content="index, follow">
+<meta name="author" content="Hotvet legesenter">
+
+<link rel="canonical" href="https://hotvetlegesenter.com/blogg/">
+<link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/">
+<link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/index_en.html">
+
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Blogg – helseinformasjon | Hotvet legesenter">
+<meta property="og:description" content="Praktiske guider om fastlege, helse og rettigheter fra Hotvet legesenter i Drammen.">
+<meta property="og:url" content="https://hotvetlegesenter.com/blogg/">
+<meta property="og:site_name" content="Hotvet legesenter">
+<meta property="og:locale" content="nb_NO">
+
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Sans:wght@300;400;500&display=swap">
+
+<link rel="icon" type="image/png" href="/favicon.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+:root{--dg:#3e4731;--mg:#7b7f6b;--sage:#a4ad98;--cream:#e3e0d5;--sand:#c8af94;--bg:#f4f1eb;--white:#faf8f4;--text:#2a2e1e;--muted:#7b7f6b;}
+body{font-family:'IBM Plex Sans',sans-serif;color:var(--text);background:var(--bg);line-height:1.6;}
+nav{background:var(--white);padding:0 3rem;display:flex;align-items:center;justify-content:space-between;height:76px;border-bottom:1px solid var(--cream);position:sticky;top:0;z-index:100;}
+.logo-wrap{display:flex;align-items:center;gap:14px;}
+.logo-wrap img{height:50px;width:auto;}
+.nav-links{display:flex;gap:1.75rem;list-style:none;align-items:center;}
+.nav-links a{text-decoration:none;font-size:14px;color:var(--muted);font-weight:400;}
+.nav-links a:hover{color:var(--dg);}
+.nav-phone{display:flex;align-items:center;gap:7px;background:var(--dg);color:var(--cream) !important;padding:9px 18px;border-radius:4px;font-size:14px !important;font-weight:500 !important;}
+.lang-switcher{display:flex;gap:4px;align-items:center;margin-right:auto;margin-left:1rem;}
+.lang-switcher a{font-size:12px;color:var(--mg);text-decoration:none;padding:2px 6px;border-radius:3px;}
+.lang-switcher a.active{background:var(--dg);color:var(--cream);}
+.hamburger{display:none;flex-direction:column;gap:5px;cursor:pointer;background:none;border:none;padding:6px;}
+.hamburger span{display:block;width:22px;height:2px;background:var(--dg);}
+
+.hero{background:var(--dg);color:var(--cream);padding:4rem 2rem 3rem;text-align:center;}
+.hero h1{font-family:'IBM Plex Serif',serif;font-size:42px;font-weight:600;margin-bottom:.5rem;}
+.hero .sub{font-size:17px;opacity:.75;}
+
+.breadcrumb{background:var(--cream);padding:14px 3rem;border-bottom:1px solid rgba(62,71,49,.08);font-size:13px;color:var(--dg);}
+.breadcrumb ol{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:6px;align-items:center;}
+.breadcrumb li{display:flex;align-items:center;}
+.breadcrumb li+li::before{content:"\203A";margin:0 10px;color:rgba(62,71,49,.4);}
+.breadcrumb a{color:var(--dg);text-decoration:none;opacity:.75;}
+.breadcrumb a:hover{opacity:1;}
+
+.intro{max-width:740px;margin:0 auto;padding:3rem 2rem 1rem;font-size:16px;color:var(--text);line-height:1.75;}
+.intro p{margin-bottom:1rem;}
+.intro a{color:var(--dg);font-weight:500;}
+
+.posts{max-width:740px;margin:0 auto;padding:1rem 2rem 4rem;}
+.post-card{display:block;background:var(--white);border-radius:4px;padding:2rem;margin-bottom:1.25rem;text-decoration:none;color:var(--text);border:1px solid var(--cream);transition:box-shadow .2s,border-color .2s;}
+.post-card:hover{border-color:var(--sage);box-shadow:0 4px 16px rgba(62,71,49,.08);}
+.post-card .meta{font-size:13px;color:var(--muted);margin-bottom:.5rem;}
+.post-card h2{font-family:'IBM Plex Serif',serif;font-size:24px;font-weight:600;color:var(--dg);margin-bottom:.5rem;line-height:1.3;}
+.post-card p{font-size:15px;color:var(--text);line-height:1.6;opacity:.85;}
+
+footer{background:var(--dg);color:var(--sage);padding:3rem 2rem;margin-top:3rem;font-size:13px;}
+footer .inner{max-width:740px;margin:0 auto;display:flex;justify-content:space-between;flex-wrap:wrap;gap:1.5rem;}
+footer a{color:var(--sage);}
+
+.skip-link{position:absolute;left:-9999px;top:0;background:var(--dg);color:var(--cream);padding:12px 20px;z-index:9999;text-decoration:none;font-weight:500;border-radius:0 0 4px 0;}
+.skip-link:focus{left:0;outline:3px solid var(--sage);outline-offset:2px;}
+
+@media(max-width:768px){
+  nav{padding:0 1.25rem;height:auto;flex-wrap:wrap;gap:.5rem;padding-top:.75rem;padding-bottom:.75rem;}
+  .nav-links{display:none;}
+  .nav-links.open{display:flex;flex-direction:column;position:absolute;top:68px;left:0;right:0;background:var(--white);border-bottom:1px solid var(--cream);padding:1rem 1.5rem;gap:.75rem;z-index:200;}
+  .nav-links.open li{border-bottom:1px solid var(--cream);padding-bottom:.6rem;list-style:none;}
+  .nav-links.open li:last-child{border-bottom:none;padding-bottom:0;}
+  .hamburger{display:flex;}
+  .logo-wrap img{height:40px;}
+  .hero{padding:3rem 1.2rem 2rem;}
+  .hero h1{font-size:32px;}
+  .breadcrumb{padding:12px 1.25rem;}
+}
+</style>
+</head>
+<body>
+<a class="skip-link" href="#main-content">Hopp til hovedinnhold</a>
+
+<nav aria-label="Hovedmeny">
+  <a href="/" class="logo-wrap"><img src="/logo-main.png" alt="Hotvet legesenter"></a>
+  <div class="lang-switcher">
+    <a href="#" class="active">NO</a>
+    <a href="/blogg/index_en.html">EN</a>
+  </div>
+  <button class="hamburger" aria-label="Meny" onclick="document.querySelector('.nav-links').classList.toggle('open')">
+    <span></span><span></span><span></span>
+  </button>
+  <ul class="nav-links">
+    <li><a href="/index.html">Hjem</a></li>
+    <li><a href="/om-oss.html">Om oss</a></li>
+    <li><a href="/teamet.html">Teamet v&aring;rt</a></li>
+    <li><a href="/tjenester.html">Tjenester</a></li>
+    <li><a href="/priser.html">Priser</a></li>
+    <li><a href="/apningstider.html">&Aring;pningstider</a></li>
+    <li><a href="/informasjon.html">Informasjon</a></li>
+    <li><a href="/blogg/">Blogg</a></li>
+    <li><a href="/kontakt.html">Kontakt</a></li>
+    <li><a href="tel:+4731021300" class="nav-phone">+47 31 02 13 00</a></li>
+  </ul>
+</nav>
+
+<nav class="breadcrumb" aria-label="Br&oslash;dsmulesti">
+  <ol>
+    <li><a href="../index.html">Hjem</a></li>
+    <li>Blogg</li>
+  </ol>
+</nav>
+
+<main id="main-content">
+
+<header class="hero">
+  <h1>Blogg</h1>
+  <div class="sub">Helseinformasjon og guider fra Hotvet legesenter</div>
+</header>
+
+<section class="intro">
+  <p>Velkommen til bloggen v&aring;r. Her samler vi praktiske guider, svar p&aring; vanlige sp&oslash;rsm&aring;l og oppdatert helseinformasjon for deg som er pasient &mdash; eller vurderer &aring; bli det &mdash; hos Hotvet legesenter i Drammen.</p>
+  <p>M&aring;let v&aring;rt er &aring; gj&oslash;re det enklere &aring; navigere fastlegeordningen: bytte fastlege, forst&aring; dine rettigheter via Helfo og Helsenorge, forberede deg godt til timen, og vite n&aring;r du b&oslash;r ta kontakt. Vi skriver ogs&aring; om forebyggende helse, vaksiner, reisevaksinasjon og hvordan vi h&aring;ndterer akuttbehandling i &aring;pningstiden.</p>
+  <p>Mange av pasientene v&aring;re har sp&oslash;rsm&aring;l om egenandeler, frikort, sykmelding og reseptfornyelse. I artiklene v&aring;re fors&oslash;ker vi &aring; gi klare svar slik at du slipper &aring; lete &mdash; enten du er ny i Drammen og trenger fastlege, eller du allerede er pasient og vil ha oversikt over rettigheter og tjenester.</p>
+  <p>Bloggen oppdateres jevnlig med nye innlegg fra legene og teamet v&aring;rt. Har du et tema du &oslash;nsker at vi skal skrive om? Send oss gjerne en e-post via <a href="/kontakt.html">kontaktsiden</a>.</p>
+</section>
+
+<section class="posts">
+  <a class="post-card" href="/blogg/ny-i-drammen-fastlege.html">
+    <div class="meta">20. april 2026 &middot; 5 min lesetid</div>
+    <h2>Ny i Drammen? Slik finner du fastlege</h2>
+    <p>Har du flyttet til Drammen og trenger fastlege? Steg-for-steg guide til &aring; finne ledig fastlege, hva du b&oslash;r se etter, og hvordan du bytter via Helsenorge.no.</p>
+  </a>
+
+  <a class="post-card" href="/blogg/bytte-fastlege-drammen.html">
+    <div class="meta">16. april 2026 &middot; 4 min lesetid</div>
+    <h2>Bytte fastlege i Drammen &ndash; steg-for-steg</h2>
+    <p>Slik bytter du fastlege i Drammen p&aring; tre minutter. Guide via Helsenorge, krav, journaloverf&oslash;ring og svar p&aring; vanlige sp&oslash;rsm&aring;l.</p>
+  </a>
+</section>
+
+</main>
+
+<footer>
+  <div class="inner">
+    <div>Hotvet legesenter &middot; Rosenkrantzgata 75 &middot; 3018 Drammen</div>
+    <div><a href="tel:+4731021300">+47 31 02 13 00</a> &middot; <a href="/">hotvetlegesenter.com</a></div>
+  </div>
+</footer>
+
+<script src="/cookie-consent.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PM4ZTZTSR9"></script>
+<script>
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','G-PM4ZTZTSR9');
+</script>
+</body>
+</html>
