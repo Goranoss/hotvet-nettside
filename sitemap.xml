@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://hotvetlegesenter.com/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/index.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/index_en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/"/>
+  </url>
+
+  <!-- Tjenester / Services -->
+  <url>
+    <loc>https://hotvetlegesenter.com/tjenester.html</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/tjenester.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/tjenester.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/tjenester_en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/tjenester.html"/>
+  </url>
+  <url>
+    <loc>https://hotvetlegesenter.com/tjenester_en.html</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/tjenester.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/tjenester.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/tjenester_en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/tjenester.html"/>
+  </url>
+
+  <!-- Priser / Prices -->
+  <url>
+    <loc>https://hotvetlegesenter.com/priser.html</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/priser.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/priser.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/priser_en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/priser.html"/>
+  </url>
+  <url>
+    <loc>https://hotvetlegesenter.com/priser_en.html</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/priser.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/priser.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/priser_en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/priser.html"/>
+  </url>
+
+  <!-- Teamet / Our team -->
+  <url>
+    <loc>https://hotvetlegesenter.com/teamet.html</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/teamet.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/teamet.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/teamet_en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/teamet.html"/>
+  </url>
+  <url>
+    <loc>https://hotvetlegesenter.com/teamet_en.html</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/teamet.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/teamet.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/teamet_en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/teamet.html"/>
+  </url>
+
+  <!-- Om oss / About us -->
+  <url>
+    <loc>https://hotvetlegesenter.com/om-oss.html</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/om-oss.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/om-oss.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/om-oss_en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/om-oss.html"/>
+  </url>
+  <url>
+    <loc>https://hotvetlegesenter.com/om-oss_en.html</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/om-oss.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/om-oss.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/om-oss_en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/om-oss.html"/>
+  </url>
+
+  <!-- Kontakt / Contact -->
+  <url>
+    <loc>https://hotvetlegesenter.com/kontakt.html</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/kontakt.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/kontakt.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/kontakt_en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/kontakt.html"/>
+  </url>
+  <url>
+    <loc>https://hotvetlegesenter.com/kontakt_en.html</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/kontakt.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/kontakt.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/kontakt_en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/kontakt.html"/>
+  </url>
+
+  <!-- Åpningstider / Opening hours -->
+  <url>
+    <loc>https://hotvetlegesenter.com/apningstider.html</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/apningstider.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/apningstider.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/apningstider_en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/apningstider.html"/>
+  </url>
+  <url>
+    <loc>https://hotvetlegesenter.com/apningstider_en.html</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/apningstider.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/apningstider.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/apningstider_en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/apningstider.html"/>
+  </url>
+
+  <!-- Informasjon / Information -->
+  <url>
+    <loc>https://hotvetlegesenter.com/informasjon.html</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/informasjon.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/informasjon.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/informasjon_en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/informasjon.html"/>
+  </url>
+  <url>
+    <loc>https://hotvetlegesenter.com/informasjon_en.html</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/informasjon.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/informasjon.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/informasjon_en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/informasjon.html"/>
+  </url>
+
+  <!-- Blog index -->
+  <url>
+    <loc>https://hotvetlegesenter.com/blogg/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/index_en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/"/>
+  </url>
+  <url>
+    <loc>https://hotvetlegesenter.com/blogg/index_en.html</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/index_en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/"/>
+  </url>
+
+  <!-- Ledig fastlege landing page -->
+  <url>
+    <loc>https://hotvetlegesenter.com/ledig-fastlege-drammen.html</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/ledig-fastlege-drammen.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/ledig-fastlege-drammen.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/ledig-fastlege-drammen_en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/ledig-fastlege-drammen.html"/>
+  </url>
+  <url>
+    <loc>https://hotvetlegesenter.com/ledig-fastlege-drammen_en.html</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/ledig-fastlege-drammen.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/ledig-fastlege-drammen.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/ledig-fastlege-drammen_en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/ledig-fastlege-drammen.html"/>
+  </url>
+
+  <!-- Blog post: Bytte fastlege -->
+  <url>
+    <loc>https://hotvetlegesenter.com/blogg/bytte-fastlege-drammen.html</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/bytte-fastlege-drammen.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/bytte-fastlege-drammen.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/change-gp-drammen.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/bytte-fastlege-drammen.html"/>
+  </url>
+  <url>
+    <loc>https://hotvetlegesenter.com/blogg/change-gp-drammen.html</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/bytte-fastlege-drammen.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/bytte-fastlege-drammen.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/change-gp-drammen.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/bytte-fastlege-drammen.html"/>
+  </url>
+
+</urlset>
