@@ -213,8 +213,13 @@ section{padding:4.5rem 3rem;}
   display:flex;align-items:center;justify-content:center;
   font-family:'IBM Plex Serif',serif;font-size:16px;font-weight:500;color:var(--dg);
 }
+.sc-photo{
+  width:56px;height:56px;border-radius:50%;object-fit:cover;flex-shrink:0;
+}
 .sc-name{font-family:'IBM Plex Serif',serif;font-size:14px;font-weight:500;color:var(--dg);margin-bottom:3px;}
-.sc-role{font-size:12px;font-weight:300;color:var(--muted);}
+.sc-role{font-size:12px;font-weight:300;color:var(--muted);margin-bottom:.4rem;}
+.sc-bio{font-size:11px;font-weight:300;color:var(--muted);line-height:1.55;}
+.sc.sc-featured{align-items:flex-start;}
 
 /* BOOKING */
 .book-bg{background:var(--dg);}
@@ -514,7 +519,14 @@ footer{
     <div>
       <div class="team-label">Helsesekretærer</div>
       <div class="sec-grid">
-        <div class="sc"><div class="sc-initials">TB</div><div><div class="sc-name">Trude Bakke</div><div class="sc-role">Helsesekretær</div></div></div>
+        <div class="sc sc-featured">
+          <img class="sc-photo" src="/team/trude-bakke.jpg" alt="Trude Bakke, helsesekretær ved Hotvet legesenter"/>
+          <div>
+            <div class="sc-name">Trude Bakke</div>
+            <div class="sc-role">Helsesekretær</div>
+            <p class="sc-bio">Lang erfaring fra helsevesenet – hjemmesykepleie, sykehus og fastlegekontor. Trude er opptatt av trygg, effektiv og profesjonell pasientflyt, og møter hver pasient med respekt og omsorg.</p>
+          </div>
+        </div>
         <div class="sc"><div class="sc-initials">FI</div><div><div class="sc-name">Finan Tsegai Issak</div><div class="sc-role">Helsesekretær</div></div></div>
         <div class="sc"><div class="sc-initials">ML</div><div><div class="sc-name">Maren Lyngås-Høiback</div><div class="sc-role">Helsesekretær</div></div></div>
       </div>
