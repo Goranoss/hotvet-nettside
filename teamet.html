@@ -218,8 +218,17 @@ section{padding:4.5rem 3rem;}
 }
 .sc-name{font-family:'IBM Plex Serif',serif;font-size:14px;font-weight:500;color:var(--dg);margin-bottom:3px;}
 .sc-role{font-size:12px;font-weight:300;color:var(--muted);margin-bottom:.4rem;}
-.sc-bio{font-size:11px;font-weight:300;color:var(--muted);line-height:1.55;}
-.sc.sc-featured{align-items:flex-start;}
+.sc-bio{font-size:12px;font-weight:300;color:var(--muted);line-height:1.6;}
+.sc.sc-featured{
+  display:flex;flex-direction:column;
+  padding:0;gap:0;align-items:stretch;overflow:hidden;
+}
+.sc.sc-featured .sc-photo{
+  width:100%;height:300px;border-radius:0;
+  object-position:center 20%;
+}
+.sc.sc-featured > div{padding:1.3rem 1.4rem;}
+.sc.sc-featured .sc-name{font-size:15px;}
 
 /* BOOKING */
 .book-bg{background:var(--dg);}
