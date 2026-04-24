@@ -8,9 +8,11 @@ Rotasjonsprinsipp: vi sykler gjennom de 6 temakategoriene fra [INNHOLDSSTRATEGI.
 
 | Uke | Tema-kategori | Foreslått tittel | Status |
 |-----|---------------|-------------------|--------|
-| 27. apr 2026 (mandag) | 1 – Bytte fastlege | Hvorfor bytter pasienter fastlege? Fem grunner | approved (klar for publisering) |
-| 4. mai 2026 | 3 – Når ringer du hvem | 113, 116 117 eller fastlegen? Slik vet du hvem du skal ringe | approved (klar for publisering) |
-| 11. mai 2026 | 2 – Sesongens helse | Pollensesongen i Drammen: når topper bjørkepollen? | pending |
+| 24. apr 2026 (fredag) | 3 – Når ringer du hvem | 113, 116 117 eller fastlegen? Slik vet du hvem du skal ringe | approved – publiseres 24. apr (flyttet fram fra 4. mai) |
+| 27. apr 2026 (mandag) | 2 – Sesongens helse | Pollensesongen i Drammen: når topper bjørkepollen? | approved – publiseres 27. apr (flyttet fram fra 11. mai) |
+| 1. mai 2026 (fredag) | 1 – Bytte fastlege | Hvorfor bytter pasienter fastlege? Fem grunner | approved – publiseres 1. mai (flyttet fra 27. apr) |
+| 4. mai 2026 | – | (ledig – ny idé her) | pending |
+| 11. mai 2026 | – | (ledig – ny idé her) | pending |
 | 18. mai 2026 | 4 – Familie og barn | Barnevaksineprogrammet 2026 – oversikt for foreldre | pending |
 | 25. mai 2026 | 5 – Digital hverdag | Slik bruker du Helsenorge.no – en nybegynnerguide | pending |
 | 1. jun 2026 | 6 – Forebygging og livsstil | Årskontroll hos fastlegen: hva skjer egentlig? | pending |
