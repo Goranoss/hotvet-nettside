@@ -5,7 +5,7 @@
   <!-- Homepage -->
   <url>
     <loc>https://hotvetlegesenter.com/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/index.html"/>
@@ -171,7 +171,7 @@
   <!-- Blog index -->
   <url>
     <loc>https://hotvetlegesenter.com/blogg/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/"/>
@@ -181,7 +181,7 @@
   </url>
   <url>
     <loc>https://hotvetlegesenter.com/blogg/index_en.html</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/"/>
@@ -212,6 +212,50 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/ledig-fastlege-drammen.html"/>
   </url>
 
+  <!-- Blog post: Hvorfor bytter pasienter fastlege -->
+  <url>
+    <loc>https://hotvetlegesenter.com/blogg/hvorfor-bytte-fastlege.html</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/hvorfor-bytte-fastlege.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/hvorfor-bytte-fastlege.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/why-change-gp.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/hvorfor-bytte-fastlege.html"/>
+  </url>
+  <url>
+    <loc>https://hotvetlegesenter.com/blogg/why-change-gp.html</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/hvorfor-bytte-fastlege.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/hvorfor-bytte-fastlege.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/why-change-gp.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/hvorfor-bytte-fastlege.html"/>
+  </url>
+
+  <!-- Blog post: Ringe 113, legevakt eller fastlege -->
+  <url>
+    <loc>https://hotvetlegesenter.com/blogg/ringe-113-legevakt-fastlege.html</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/ringe-113-legevakt-fastlege.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/ringe-113-legevakt-fastlege.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/call-113-legevakt-gp.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/ringe-113-legevakt-fastlege.html"/>
+  </url>
+  <url>
+    <loc>https://hotvetlegesenter.com/blogg/call-113-legevakt-gp.html</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/ringe-113-legevakt-fastlege.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/ringe-113-legevakt-fastlege.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/call-113-legevakt-gp.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/ringe-113-legevakt-fastlege.html"/>
+  </url>
+
   <!-- Blog post: Ny i Drammen – fastlege -->
   <url>
     <loc>https://hotvetlegesenter.com/blogg/ny-i-drammen-fastlege.html</loc>
@@ -232,4 +276,28 @@
     <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/ny-i-drammen-fastlege.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/new-to-drammen-find-gp.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/ny-i-drammen-fastlege.html"/>
- 
+  </url>
+
+  <!-- Blog post: Bytte fastlege -->
+  <url>
+    <loc>https://hotvetlegesenter.com/blogg/bytte-fastlege-drammen.html</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/bytte-fastlege-drammen.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/bytte-fastlege-drammen.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/change-gp-drammen.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/bytte-fastlege-drammen.html"/>
+  </url>
+  <url>
+    <loc>https://hotvetlegesenter.com/blogg/change-gp-drammen.html</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/bytte-fastlege-drammen.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/bytte-fastlege-drammen.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/change-gp-drammen.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/bytte-fastlege-drammen.html"/>
+  </url>
+
+</urlset>
