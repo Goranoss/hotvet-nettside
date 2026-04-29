@@ -212,6 +212,28 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/ledig-fastlege-drammen.html"/>
   </url>
 
+  <!-- Blog post: Pollensesongen i Drammen (bjørkepollen) -->
+  <url>
+    <loc>https://hotvetlegesenter.com/blogg/pollensesongen-drammen-bjorkepollen.html</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/pollensesongen-drammen-bjorkepollen.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/pollensesongen-drammen-bjorkepollen.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/pollensesongen-drammen-bjorkepollen-en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/pollensesongen-drammen-bjorkepollen.html"/>
+  </url>
+  <url>
+    <loc>https://hotvetlegesenter.com/blogg/pollensesongen-drammen-bjorkepollen-en.html</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/pollensesongen-drammen-bjorkepollen.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/pollensesongen-drammen-bjorkepollen.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/pollensesongen-drammen-bjorkepollen-en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/pollensesongen-drammen-bjorkepollen.html"/>
+  </url>
+
   <!-- Blog post: Bak kulissene - byggefase -->
   <url>
     <loc>https://hotvetlegesenter.com/blogg/bak-kulissene-byggefase.html</loc>
