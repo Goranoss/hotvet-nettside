@@ -5,11 +5,11 @@
   <!-- Homepage -->
   <url>
     <loc>https://hotvetlegesenter.com/</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-04-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/index.html"/>
-    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/index.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/index_en.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/"/>
   </url>
@@ -318,30 +318,4 @@
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/ny-i-drammen-fastlege.html"/>
     <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/ny-i-drammen-fastlege.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/new-to-drammen-find-gp.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/ny-i-drammen-fastlege.html"/>
-  </url>
-
-  <!-- Blog post: Bytte fastlege -->
-  <url>
-    <loc>https://hotvetlegesenter.com/blogg/bytte-fastlege-drammen.html</loc>
-    <lastmod>2026-04-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/bytte-fastlege-drammen.html"/>
-    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/bytte-fastlege-drammen.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/change-gp-drammen.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/bytte-fastlege-drammen.html"/>
-  </url>
-  <url>
-    <loc>https://hotvetlegesenter.com/blogg/change-gp-drammen.html</loc>
-    <lastmod>2026-04-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/bytte-fastlege-drammen.html"/>
-    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/bytte-fastlege-drammen.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/change-gp-drammen.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/bytte-fastlege-drammen.html"/>
-  </url>
-
-</urlset>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/b
