@@ -1,0 +1,41 @@
+# Hotvet legesenter — Netlify redirects
+# Fikser 404-feil og forbedrer crawl-effektivitet
+
+# Gammel om-side → ny om-oss-side
+/om.html    /om-oss.html    301
+/om         /om-oss.html    301
+
+# Clean URLs (uten .html) → med .html
+/tjenester          /tjenester.html          301
+/teamet             /teamet.html             301
+/priser             /priser.html             301
+/om-oss             /om-oss.html             301
+/kontakt            /kontakt.html            301
+/informasjon        /informasjon.html        301
+/apningstider       /apningstider.html       301
+/ledig-fastlege-drammen  /ledig-fastlege-drammen.html  301
+
+# Engelske sider clean URLs
+/tjenester_en       /tjenester_en.html       301
+/teamet_en          /teamet_en.html          301
+/priser_en          /priser_en.html          301
+/om-oss_en          /om-oss_en.html          301
+/kontakt_en         /kontakt_en.html         301
+/informasjon_en     /informasjon_en.html     301
+/apningstider_en    /apningstider_en.html    301
+
+# Blogg clean URLs
+/blogg/bytte-fastlege-drammen    /blogg/bytte-fastlege-drammen.html    301
+/blogg/change-gp-drammen         /blogg/change-gp-drammen.html         301
+/blogg/hvorfor-bytte-fastlege    /blogg/hvorfor-bytte-fastlege.html    301
+/blogg/why-change-gp             /blogg/why-change-gp.html             301
+/blogg/ny-i-drammen-fastlege     /blogg/ny-i-drammen-fastlege.html     301
+/blogg/new-to-drammen-find-gp    /blogg/new-to-drammen-find-gp.html    301
+/blogg/ringe-113-legevakt-fastlege       /blogg/ringe-113-legevakt-fastlege.html       301
+/blogg/call-113-legevakt-gp              /blogg/call-113-legevakt-gp.html              301
+/blogg/pollensesongen-drammen-bjorkepollen    /blogg/pollensesongen-drammen-bjorkepollen.html    301
+/blogg/pollensesongen-drammen-bjorkepollen-en /blogg/pollensesongen-drammen-bjorkepollen-en.html 301
+/blogg/bak-kulissene-byggefase           /blogg/bak-kulissene-byggefase.html           301
+/blogg/behind-the-scenes-construction    /blogg/behind-the-scenes-construction.html    301
+/blogg/videokonsultasjon-fastlege-drammen /blogg/videokonsultasjon-fastlege-drammen.html 301
+/blogg/video-consultation-gp-drammen     /blogg/video-consultation-gp-drammen.html     301

@@ -1,19 +1,22 @@
 # robots.txt for Hotvet legesenter — https://hotvetlegesenter.com
-# Updated: 2026-04-16
+# Updated: 2026-05-10
 
 User-agent: *
 Allow: /
 
-# Do not index backup or admin directories (if any appear later)
+# Blokker interne filer som ikke skal crawles
 Disallow: /cgi-bin/
 Disallow: /wp-admin/
 Disallow: /admin/
 Disallow: /private/
 Disallow: /*.json$
+Disallow: /*.md$
+Disallow: /blogg/_drafts/
+Disallow: /*.backup*
 
-# AI crawlers are allowed so Hotvet legesenter can appear in AI-generated answers
-# (Google AI Overviews / Gemini via Google-Extended, ChatGPT via GPTBot,
-# Claude via ClaudeBot/anthropic-ai, and training datasets via CCBot).
+# AI crawlers er tillatt for synlighet i AI-svar
+# (Google AI Overviews / Gemini, ChatGPT / GPTBot,
+# Claude / ClaudeBot, og CCBot for treningsdata)
 
 # Sitemap location
 Sitemap: https://hotvetlegesenter.com/sitemap.xml
