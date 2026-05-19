@@ -13,13 +13,15 @@ Rotasjonsprinsipp: vi sykler gjennom de 6 temakategoriene fra [INNHOLDSSTRATEGI.
 | 1. mai 2026 (fredag) | 2 – Sesongens helse | Pollensesongen i Drammen: når topper bjørkepollen? | drafted – planlagt publisering 1. mai (utkast i /blogg/_drafts/) |
 | 4. mai 2026 | – | (ledig – ny idé her) | pending |
 | 11. mai 2026 | 6 – Forebygging og livsstil | Søvn og helse: når er det på tide å søke hjelp? | drafted – planlagt publisering 11. mai (utkast i /blogg/_drafts/). Tema valgt for å unngå overlapp med eksisterende publiserte artikler om legevakt/113 og videokonsultasjon. |
-| 18. mai 2026 | 4 – Familie og barn | Barnevaksineprogrammet 2026 – oversikt for foreldre | pending |
-| 25. mai 2026 | 5 – Digital hverdag | Slik bruker du Helsenorge.no – en nybegynnerguide | pending |
-| 1. jun 2026 | 6 – Forebygging og livsstil | Årskontroll hos fastlegen: hva skjer egentlig? | pending |
-| 8. jun 2026 | 1 – Bytte fastlege | Sjekkliste: 7 tegn på at det er på tide å bytte fastlege | pending |
-| 15. jun 2026 | 3 – Når ringer du hvem | Barn med feber midt på natta – fastlege, legevakt eller avvent? | pending |
-| 22. jun 2026 | 2 – Sesongens helse | Sol, UV og hudkreft – enkle forholdsregler for sommer i Norge | pending |
-| 29. jun 2026 | 4 – Familie og barn | Barnesykdommer om våren: vannkopper, RS-virus, skarlagensfeber | pending |
+| 18. mai 2026 | 2 – Sesongens helse | Solbeskyttelse om sommeren: solfaktor, føflekker og UV i Drammen | drafted – planlagt publisering 18. mai (utkast i /blogg/_drafts/). Byttet inn for å treffe sommer-søk i mai. |
+| 25. mai 2026 | 2 – Sesongens helse | Flåttbitt i Drammen: slik fjerner du flått og oppdager borreliose | drafted – planlagt publisering 25. mai (utkast i /blogg/_drafts/). Sterk lokal SEO (Drammen nevnt i FHIs TBE-anbefaling). |
+| 1. jun 2026 | 5 – Digital hverdag | Slik bruker du Helsenorge.no – en nybegynnerguide | pending (flyttet fra 25. mai) |
+| 8. jun 2026 | 4 – Familie og barn | Barnevaksineprogrammet 2026 – oversikt for foreldre | pending (flyttet fra 18. mai, sesongnøytralt tema) |
+| 15. jun 2026 | 6 – Forebygging og livsstil | Årskontroll hos fastlegen: hva skjer egentlig? | pending |
+| 22. jun 2026 | 1 – Bytte fastlege | Sjekkliste: 7 tegn på at det er på tide å bytte fastlege | pending |
+| 29. jun 2026 | 3 – Når ringer du hvem | Barn med feber midt på natta – fastlege, legevakt eller avvent? | pending |
+| 6. jul 2026 | 4 – Familie og barn | Barnesykdommer om våren: vannkopper, RS-virus, skarlagensfeber | pending |
+| 13. jul 2026 | 2 – Sesongens helse | Insektstikk, allergi og når kontakte lege | pending – sommertema |
 
 ## Ideer på lager (ikke skjedulert enda)
 
