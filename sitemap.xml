@@ -388,4 +388,26 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/bytte-fastlege-drammen.html"/>
   </url>
 
+  <!-- Blog post: DT omtaler Hotvet legesenter -->
+  <url>
+    <loc>https://hotvetlegesenter.com/blogg/drammens-tidende-omtaler-hotvet-legesenter.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/drammens-tidende-omtaler-hotvet-legesenter.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/drammens-tidende-omtaler-hotvet-legesenter.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/drammens-tidende-covers-hotvet-legesenter-en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/drammens-tidende-omtaler-hotvet-legesenter.html"/>
+  </url>
+  <url>
+    <loc>https://hotvetlegesenter.com/blogg/drammens-tidende-covers-hotvet-legesenter-en.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/drammens-tidende-omtaler-hotvet-legesenter.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/drammens-tidende-omtaler-hotvet-legesenter.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/drammens-tidende-covers-hotvet-legesenter-en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/drammens-tidende-omtaler-hotvet-legesenter.html"/>
+  </url>
+
 </urlset>
