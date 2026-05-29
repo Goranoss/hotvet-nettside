@@ -256,6 +256,28 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/videokonsultasjon-fastlege-drammen.html"/>
   </url>
 
+  <!-- Blog post: Årskontroll hos fastlegen -->
+  <url>
+    <loc>https://hotvetlegesenter.com/blogg/arskontroll-fastlege-hva-skjer.html</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/arskontroll-fastlege-hva-skjer.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/arskontroll-fastlege-hva-skjer.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/annual-health-check-gp.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/arskontroll-fastlege-hva-skjer.html"/>
+  </url>
+  <url>
+    <loc>https://hotvetlegesenter.com/blogg/annual-health-check-gp.html</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/arskontroll-fastlege-hva-skjer.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/arskontroll-fastlege-hva-skjer.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/annual-health-check-gp.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/arskontroll-fastlege-hva-skjer.html"/>
+  </url>
+
   <!-- Blog post: Drammens Tidende omtaler Hotvet legesenter -->
   <url>
     <loc>https://hotvetlegesenter.com/blogg/drammens-tidende-omtaler-hotvet-legesenter.html</loc>
