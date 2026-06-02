@@ -5,6 +5,12 @@
 /om.html    /om-oss.html    301
 /om         /om-oss.html    301
 
+# i-mediene.html er duplikat av blogginnlegget → redirect til blogg (force = !)
+/i-mediene.html    /blogg/drammens-tidende-omtaler-hotvet-legesenter.html    301!
+/i-mediene         /blogg/drammens-tidende-omtaler-hotvet-legesenter.html    301!
+/i-mediene_en.html /blogg/drammens-tidende-covers-hotvet-legesenter-en.html  301!
+/i-mediene_en      /blogg/drammens-tidende-covers-hotvet-legesenter-en.html  301!
+
 # Clean URLs (uten .html) → med .html
 /tjenester          /tjenester.html          301
 /teamet             /teamet.html             301
