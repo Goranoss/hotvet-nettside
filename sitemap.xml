@@ -256,6 +256,28 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/videokonsultasjon-fastlege-drammen.html"/>
   </url>
 
+  <!-- Blog post: Hotvet legesenter har åpnet -->
+  <url>
+    <loc>https://hotvetlegesenter.com/blogg/hotvet-legesenter-er-apnet.html</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/hotvet-legesenter-er-apnet.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/hotvet-legesenter-er-apnet.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/hotvet-legesenter-now-open.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/hotvet-legesenter-er-apnet.html"/>
+  </url>
+  <url>
+    <loc>https://hotvetlegesenter.com/blogg/hotvet-legesenter-now-open.html</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/hotvet-legesenter-er-apnet.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/hotvet-legesenter-er-apnet.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/hotvet-legesenter-now-open.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/hotvet-legesenter-er-apnet.html"/>
+  </url>
+
   <!-- Blog post: Sjekkliste 7 tegn på å bytte fastlege -->
   <url>
     <loc>https://hotvetlegesenter.com/blogg/sjekkliste-7-tegn-bytte-fastlege.html</loc>
