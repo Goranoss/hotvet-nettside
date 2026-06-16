@@ -190,6 +190,28 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/"/>
   </url>
 
+  <!-- Blogg: Slik bruker du Helsenorge.no (NO + EN) -->
+  <url>
+    <loc>https://hotvetlegesenter.com/blogg/slik-bruker-du-helsenorge.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/slik-bruker-du-helsenorge.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/slik-bruker-du-helsenorge.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/how-to-use-helsenorge.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/slik-bruker-du-helsenorge.html"/>
+  </url>
+  <url>
+    <loc>https://hotvetlegesenter.com/blogg/how-to-use-helsenorge.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/slik-bruker-du-helsenorge.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/slik-bruker-du-helsenorge.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/how-to-use-helsenorge.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/slik-bruker-du-helsenorge.html"/>
+  </url>
+
   <!-- Ledig fastlege landing page -->
   <url>
     <loc>https://hotvetlegesenter.com/ledig-fastlege-drammen.html</loc>
