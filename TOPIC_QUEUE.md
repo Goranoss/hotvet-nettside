@@ -16,7 +16,7 @@ Rotasjonsprinsipp: vi sykler gjennom de 6 temakategoriene fra [INNHOLDSSTRATEGI.
 | 18. mai 2026 | 2 – Sesongens helse | Solbeskyttelse om sommeren: solfaktor, føflekker og UV i Drammen | drafted – planlagt publisering 18. mai (utkast i /blogg/_drafts/). Byttet inn for å treffe sommer-søk i mai. |
 | 25. mai 2026 | 2 – Sesongens helse | Flåttbitt i Drammen: slik fjerner du flått og oppdager borreliose | drafted – planlagt publisering 25. mai (utkast i /blogg/_drafts/). Sterk lokal SEO (Drammen nevnt i FHIs TBE-anbefaling). |
 | 1. jun 2026 | 6 – Forebygging og livsstil | Årskontroll hos fastlegen: hva skjer egentlig? | published 1. juni 2026 (NO + EN) |
-| 8. jun 2026 | 5 – Digital hverdag | Slik bruker du Helsenorge.no – en nybegynnerguide | pending |
+| 8. jun 2026 | 5 – Digital hverdag | Slik bruker du Helsenorge.no – en nybegynnerguide | drafted – utkast i /blogg/_drafts/ (slik-bruker-du-helsenorge.html + how-to-use-helsenorge.html), planlagt publisering man 15. juni 2026 |
 | 15. jun 2026 | 4 – Familie og barn | Barnevaksineprogrammet 2026 – oversikt for foreldre | pending |
 | 22. jun 2026 | 1 – Bytte fastlege | Sjekkliste: 7 tegn på at det er på tide å bytte fastlege | pending |
 | 29. jun 2026 | 3 – Når ringer du hvem | Barn med feber midt på natta – fastlege, legevakt eller avvent? | pending |
