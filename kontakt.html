@@ -254,18 +254,18 @@ section{padding:4.5rem 3rem;}
   background:rgba(227,224,213,.07);display:flex;align-items:center;justify-content:center;flex-shrink:0;
 }
 .c-label{font-size:14px;font-weight:500;color:var(--cream);margin-bottom:2px;}
-.c-val{font-size:13px;font-weight:300;color:rgba(227,224,213,.52);line-height:1.5;}
+.c-val{font-size:13px;font-weight:400;color:rgba(227,224,213,.92);line-height:1.5;}
 .hours-box{
-  background:rgba(227,224,213,.05);border:1px solid rgba(227,224,213,.09);
+  background:rgba(227,224,213,.09);border:1px solid rgba(227,224,213,.22);
   border-radius:6px;overflow:hidden;margin-top:1rem;
 }
 .h-row{
   display:flex;justify-content:space-between;padding:9px 15px;
-  font-size:13px;border-bottom:1px solid rgba(227,224,213,.06);
+  font-size:13px;border-bottom:1px solid rgba(227,224,213,.14);
 }
 .h-row:last-child{border-bottom:none;}
-.h-day{color:rgba(227,224,213,.48);font-weight:300;}
-.h-time{color:var(--cream);font-weight:400;}
+.h-day{color:rgba(227,224,213,.85);font-weight:400;}
+.h-time{color:var(--cream);font-weight:500;}
 
 /* WORDPRESS NOTE */
 .wp-note{
@@ -455,7 +455,7 @@ footer{
         <div class="hn-name">Helsenorge.no<span>Norsk helseportal · BankID påkrevd</span></div>
       </div>
       <p class="hn-desc">All timebestilling og bytte av fastlege gjøres via Helsenorge.no. Du logger inn med BankID.</p>
-      <a class="hn-btn" href="https://tjenester.helsenorge.no/bytte-fastlege" target="_blank">Bytt fastlege til Hotvet legesenter <svg width="15" height="15" viewBox="0 0 15 15" fill="none"><path d="M3 7.5h9M9 3.5l4 4-4 4" stroke="#3e4731" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+      <a class="hn-btn" href="https://tjenester.helsenorge.no/bytte-fastlege?searchquery=hotvet&searchquerytype=legekontor" target="_blank">Bytt fastlege til Hotvet legesenter <svg width="15" height="15" viewBox="0 0 15 15" fill="none"><path d="M3 7.5h9M9 3.5l4 4-4 4" stroke="#3e4731" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
       <a class="hn-btn-ghost" href="https://www.helsenorge.no/timeavtaler" target="_blank">Bestill time <svg width="15" height="15" viewBox="0 0 15 15" fill="none"><path d="M3 7.5h9M9 3.5l4 4-4 4" stroke="rgba(227,224,213,.7)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
       <a class="hn-btn-ghost" href="https://tjenester.helsenorge.no/meldinger/kontakt-legekontoret" target="_blank">E-kontakt med legekontoret <svg width="15" height="15" viewBox="0 0 15 15" fill="none"><path d="M3 7.5h9M9 3.5l4 4-4 4" stroke="rgba(227,224,213,.7)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
       <a class="hn-btn-ghost" href="https://tjenester.helsenorge.no/dialog/e-konsultasjon/2/bekreftelse?redirectTo=fastlege-tjenester" target="_blank">Start e-konsultasjon <svg width="15" height="15" viewBox="0 0 15 15" fill="none"><path d="M3 7.5h9M9 3.5l4 4-4 4" stroke="rgba(227,224,213,.7)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
@@ -474,8 +474,8 @@ footer{
       </div>
       <div class="hours-box">
         <div class="h-row"><span class="h-day">Konsultasjoner</span><span class="h-time">Man–fre 08:00–15:30</span></div>
-        <div class="h-row"><span class="h-day">Telefontid</span><span class="h-time">08:15–11:30 · 12:30–15:30</span></div>
-        <div class="h-row"><span class="h-day">Lab man–tor</span><span class="h-time">09:00–14:30</span></div>
+        <div class="h-row"><span class="h-day">Telefontid</span><span class="h-time">08:15–11:30 · 12:00–15:00</span></div>
+        <div class="h-row"><span class="h-day">Lab man–tor</span><span class="h-time">09:00–14:15</span></div>
         <div class="h-row"><span class="h-day">Lab fredag</span><span class="h-time">09:00–11:00</span></div>
         <div class="h-row"><span class="h-day">Lørdag–søndag</span><span class="h-time">Stengt</span></div>
       </div>
@@ -495,7 +495,7 @@ footer{
     <p style="font-size:15px;color:var(--text);line-height:1.75;font-weight:300;margin-bottom:1rem;">Trenger du akuttbehandling i åpningstiden, ringer du oss direkte — vi har alltid avsatt kapasitet til akutte timer samme dag. Utenfor åpningstid tar Drammen legevakt seg av øyeblikkelig hjelp på <strong>116 117</strong>. Ved livstruende symptomer — ring <strong>113</strong>.</p>
 
     <h2 style="font-family:'IBM Plex Serif',serif;font-size:22px;font-weight:400;color:var(--dg);margin:2rem 0 .75rem;">Bytte fastlege til Hotvet legesenter</h2>
-    <p style="font-size:15px;color:var(--text);line-height:1.75;font-weight:300;margin-bottom:1rem;">Å bytte fastlege i fastlegeordningen tar normalt tre til fem minutter og koster ingenting. Du finner våre fastleger i <a href="https://tjenester.helsenorge.no/bytte-fastlege" target="_blank" rel="noopener" style="color:var(--dg);">listen på Helsenorge</a> og kan bytte med to klikk. Byttet blir gyldig fra den første i neste måned, og journalen din overføres automatisk. Har du spørsmål om ordningen, legenes spesialisering eller språkstøtte, er du velkommen til å ringe oss — vi svarer gjerne før du bytter.</p>
+    <p style="font-size:15px;color:var(--text);line-height:1.75;font-weight:300;margin-bottom:1rem;">Å bytte fastlege i fastlegeordningen tar normalt tre til fem minutter og koster ingenting. Du finner våre fastleger i <a href="https://tjenester.helsenorge.no/bytte-fastlege?searchquery=hotvet&searchquerytype=legekontor" target="_blank" rel="noopener" style="color:var(--dg);">listen på Helsenorge</a> og kan bytte med to klikk. Byttet blir gyldig fra den første i neste måned, og journalen din overføres automatisk. Har du spørsmål om ordningen, legenes spesialisering eller språkstøtte, er du velkommen til å ringe oss — vi svarer gjerne før du bytter.</p>
 
     <h2 style="font-family:'IBM Plex Serif',serif;font-size:22px;font-weight:400;color:var(--dg);margin:2rem 0 .75rem;">For helsepersonell og samarbeidspartnere</h2>
     <p style="font-size:15px;color:var(--text);line-height:1.75;font-weight:300;margin-bottom:1rem;">Henvisninger mottas via Norsk helsenett. For andre faglige henvendelser, epikriser eller samarbeid med spesialisthelsetjenesten, bruk telefon eller be om vår direkte e-postadresse. Pressehenvendelser rettes til daglig leder.</p>
