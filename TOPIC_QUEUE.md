@@ -17,9 +17,9 @@ Rotasjonsprinsipp: vi sykler gjennom de 6 temakategoriene fra [INNHOLDSSTRATEGI.
 | 25. mai 2026 | 2 – Sesongens helse | Flåttbitt i Drammen: slik fjerner du flått og oppdager borreliose | drafted – planlagt publisering 25. mai (utkast i /blogg/_drafts/). Sterk lokal SEO (Drammen nevnt i FHIs TBE-anbefaling). |
 | 1. jun 2026 | 6 – Forebygging og livsstil | Årskontroll hos fastlegen: hva skjer egentlig? | published 1. juni 2026 (NO + EN) |
 | 8. jun 2026 | 5 – Digital hverdag | Slik bruker du Helsenorge.no – en nybegynnerguide | drafted – utkast i /blogg/_drafts/ (slik-bruker-du-helsenorge.html + how-to-use-helsenorge.html), planlagt publisering man 15. juni 2026 |
-| 15. jun 2026 | 4 – Familie og barn | Barnevaksineprogrammet 2026 – oversikt for foreldre | pending |
-| 22. jun 2026 | 1 – Bytte fastlege | Sjekkliste: 7 tegn på at det er på tide å bytte fastlege | pending |
-| 29. jun 2026 | 3 – Når ringer du hvem | Barn med feber midt på natta – fastlege, legevakt eller avvent? | pending |
+| 15. jun 2026 | 4 – Familie og barn | Barnevaksineprogrammet 2026 – oversikt for foreldre | drafted – utkast i /blogg/_drafts/ (barnevaksinasjonsprogrammet-2026.html + childhood-vaccination-norway.html), planlagt publisering man 22. juni 2026 |
+| 22. jun 2026 | 1 – Bytte fastlege | Sjekkliste: 7 tegn på at det er på tide å bytte fastlege | published 8. juni 2026 (NO + EN) – allerede skrevet og publisert (sjekkliste-7-tegn-bytte-fastlege.html + 7-signs-time-to-change-gp.html), lenket i bloggindeksen. Raden var feilmerket "pending"; hoppet over for å unngå duplikat. |
+| 29. jun 2026 | 3 – Når ringer du hvem | Barn med feber midt på natta – fastlege, legevakt eller avvent? | drafted – utkast i /blogg/_drafts/ (barn-feber-natt-legevakt-fastlege.html + child-fever-night-when-to-call.html), planlagt publisering man 29. juni 2026 |
 | 6. jul 2026 | 4 – Familie og barn | Barnesykdommer om våren: vannkopper, RS-virus, skarlagensfeber | pending |
 | 13. jul 2026 | 2 – Sesongens helse | Insektstikk, allergi og når kontakte lege | pending – sommertema |
 
