@@ -12,6 +12,7 @@ Disallow: /private/
 Disallow: /*.json$
 Disallow: /*.md$
 Disallow: /blogg/_drafts/
+Disallow: /_old-design/
 Disallow: /*.backup*
 
 # AI crawlers er tillatt for synlighet i AI-svar
