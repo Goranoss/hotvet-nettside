@@ -498,6 +498,28 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/bytte-fastlege-drammen.html"/>
   </url>
 
+  <!-- Blog post: Vannkopper, RS-virus og skarlagensfeber -->
+  <url>
+    <loc>https://hotvetlegesenter.com/blogg/vannkopper-rs-virus-skarlagensfeber-barn.html</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/vannkopper-rs-virus-skarlagensfeber-barn.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/vannkopper-rs-virus-skarlagensfeber-barn.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/chickenpox-rsv-scarlet-fever-children-en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/vannkopper-rs-virus-skarlagensfeber-barn.html"/>
+  </url>
+  <url>
+    <loc>https://hotvetlegesenter.com/blogg/chickenpox-rsv-scarlet-fever-children-en.html</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/vannkopper-rs-virus-skarlagensfeber-barn.html"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/vannkopper-rs-virus-skarlagensfeber-barn.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/chickenpox-rsv-scarlet-fever-children-en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/vannkopper-rs-virus-skarlagensfeber-barn.html"/>
+  </url>
+
   <!-- Blog post: Barn med feber om natten -->
   <url>
     <loc>https://hotvetlegesenter.com/blogg/barn-feber-natt-legevakt-fastlege.html</loc>
