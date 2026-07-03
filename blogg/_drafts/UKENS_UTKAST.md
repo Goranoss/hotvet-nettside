@@ -1,48 +1,46 @@
-# Ukens utkast – til godkjenning
+# Ukens bloggutkast – klar for gjennomgang
 
-**Generert:** fredag 26. juni 2026
-**Planlagt publisering:** mandag 29. juni 2026 kl. 08:00
+**Generert:** fredag 3. juli 2026 (automatisk ukentlig kjøring)
+**Planlagt publisering:** mandag 6. juli 2026 kl. 08:00
 
 ## Tittel
+**Vannkopper, RS-virus og skarlagensfeber: en foreldreguide**
 
-**Barn med feber midt på natta – fastlege, legevakt eller avvente?**
-(EN: *Child With a Fever at Night – GP, Legevakt or Wait?*)
+## Tema og kategori
+Tema 4 – Familie og barn. Valgt fra TOPIC_QUEUE (raden for 6. juli). Den øverste "pending"-raden (4. mai) er en tom plassholder uten tittel/kategori og med dato i fortid, så den ble hoppet over til fordel for det neste reelle temaet, som også faller på førstkommende mandag.
 
-Tema-kategori 3 – «Når ringer du hvem» (tillitsbyggende triage-innhold).
+## Målgruppe
+Primær 2 (den bekymrede førstegangssøkeren – forelder som googler barnesymptomer) + sekundær (barnefamilier og innflyttere). EN-versjonen er tilpasset engelsktalende foreldre i Drammen med ekstra kontekst om hvordan fastlege/legevakt/113 fungerer.
 
-## Målgruppe og SEO
+## SEO-nøkkelord
+`vannkopper barn`, `RS-virus barn`, `skarlagensfeber`, `barnesykdommer`, `barn feber`, `når kontakte lege barn`, `fastlege Drammen`. EN: `chickenpox children`, `RSV children`, `scarlet fever`, `childhood illnesses Norway`, `GP Drammen English`.
 
-- **Målgruppe:** Barnefamilier i Drammen + bekymrede førstegangssøkere som googler «feber barn natt» / «når ringe legevakt barn». Engelsk versjon treffer fremmedspråklige foreldre i Drammen.
-- **SEO-nøkkelord:** feber hos barn, barn feber natt, legevakt Drammen, 116 117, når ringe legevakt barn, fastlege Drammen. EN: child fever Norway, when to call legevakt, 116 117, GP Drammen English.
+## 5-linjers sammendrag
+1. Går gjennom tre vanlige barnesykdommer – vannkopper (virus, selvbegrensende), RS-virus (luftveisvirus, farligst for spedbarn) og skarlagensfeber (bakteriell, behandles med antibiotika).
+2. For hver sykdom: typiske symptomer, forløp og hva du kan gjøre hjemme.
+3. Egen seksjon om når barnet må holdes hjemme fra barnehage/skole (FHIs råd), per sykdom.
+4. Klar "røde flagg"-liste med tegn som alltid bør vurderes av lege, samt hvem du ringer (fastlege / 116 117 / 113).
+5. Forebygging (håndhygiene, vaksine), soft CTA mot Hotvet, disclaimer "snakk med legen din".
 
-## Sammendrag (5 linjer)
+## Filer
+- **NO:** `/blogg/_drafts/vannkopper-rs-virus-skarlagensfeber-barn.html` (953 ord)
+- **EN:** `/blogg/_drafts/chickenpox-rsv-scarlet-fever-children-en.html` (1143 ord, tilpasset)
 
-Artikkelen er en rolig veiviser for foreldre som står opp med et febersykt barn midt på natta. Hovedbudskapet: det er allmenntilstanden – ikke tallet på termometeret – som avgjør hva du bør gjøre. Den gir tre tydelige nivåer: avvent/fastlege på dagtid, legevakt på 116 117 om kvelden/natta, og 113 ved alarmsymptomer. Den forklarer konkrete varseltegn (slapphet, lite drikke, barn under tre måneder) og glasstesten for utslett. Den avsluttes med en lokal vri på hvor man henvender seg i Drammen og en myk CTA mot Hotvet.
+## Kilder sitert (alle norske autoritative)
+- Helsenorge – Vannkopper
+- FHI – Varicella (vannkopper)
+- FHI – RS-virus, informasjon til befolkningen
+- FHI – Streptokokk gruppe A-infeksjon
+- Helsedirektoratet – Streptokokkhalsinfeksjon og skarlagensfeber
+- FHI – Når bør barnet være hjemme fra barnehagen?
 
-## Filstier
+Interne lenker: NO peker til barn-feber-natt-legevakt-fastlege.html, barnevaksinasjonsprogrammet-2026.html, ringe-113-legevakt-fastlege.html, teamet.html. EN peker til child-fever-night-when-to-call.html, childhood-vaccination-norway.html, call-113-legevakt-gp.html, /en/team.html.
 
-- **NO:** `blogg/_drafts/barn-feber-natt-legevakt-fastlege.html` (1088 ord)
-- **EN:** `blogg/_drafts/child-fever-night-when-to-call.html` (1284 ord – litt lengre fordi den har et ekstra avsnitt som forklarer det norske systemet for engelsktalende, jf. strategien)
+## Ting Goran bør faktasjekke / vurdere før publisering
+1. **Antibiotika-formulering:** Teksten sier skarlagensfeber behandles med "smalspektret penicillin, vanligvis i fem dager" (fra Helsedirektoratets retningslinje). Ingen dose oppgitt. Vurder om dere vil beholde legemiddelnavnet eller nøye dere med "antibiotika foreskrevet av lege".
+2. **Tittel endret:** Køens tittel var "Barnesykdommer om våren…". Siden vi publiserer i juli, fjernet jeg "om våren" og gjorde tittelen sesongnøytral. Endre gjerne tilbake om dere ønsker.
+3. **Interne EN-lenker:** Sjekk at `/en/team.html`, `child-fever-night-when-to-call.html` og `call-113-legevakt-gp.html` er publisert live (var i blogg-mappen ved skriving). Rett stien om noe har flyttet.
+4. **Helsenorge EN-lenke:** NO-kilden bruker helsenorge.no/sykdom/... ; EN-versjonen lenker til helsenorge.no/en/sykdom/... – verifiser at engelsk vannkopper-side finnes, ellers pek til NO-siden.
+5. **RS-virus sesong:** Artikkelen sier RS-virus sirkulerer høst/vinter (korrekt), men publiseres om sommeren. Innholdet er evergreen, men vurder om dere heller vil løfte RS-virus i en høstpublisering.
 
-## Siterte kilder
-
-1. [Helsenorge – Feber hos barn](https://www.helsenorge.no/sykdom/barn/feber-hos-barn/)
-2. [NHI – Når barnet ditt har feber](https://nhi.no/sykdommer/barn/infeksjoner/nar-barnet-har-feber)
-3. [FHI – Råd ved mistanke om hjernehinnebetennelse](https://www.fhi.no/ss/hjernehinnebetennelse/informasjon-og-rad/)
-4. [Helsenorge – Legevakt / nødnumre](https://www.helsenorge.no/legevakt/) (EN: emergency-numbers-siden)
-
-Alle fire er norske autoritative kilder (Helsenorge, NHI, FHI). Interne lenker: ringe-113-legevakt-fastlege, videokonsultasjon-fastlege-drammen, slik-bruker-du-helsenorge, ledig-fastlege-drammen (alle verifisert å eksistere).
-
-## Ting Goran bør faktasjekke / vurdere
-
-1. **VIKTIG – endret tema:** Den øverste «pending»-raden i TOPIC_QUEUE (22. jun, «Sjekkliste: 7 tegn på at det er på tide å bytte fastlege») var **allerede skrevet og publisert 8. juni** (sjekkliste-7-tegn-bytte-fastlege.html + 7-signs-time-to-change-gp.html, lenket i bloggindeksen). Å skrive den på nytt ville gitt duplikatinnhold, som strategien forbyr. Jeg merket den raden som «published» og gikk videre til **neste reelle pending: 29. jun – barn med feber**. Sjekk gjerne at du er enig i dette.
-2. **Lenkene til Helsenorge sine engelske sider** (`/en/sykdom/barn/feber-hos-barn/` og `/en/emergencies-and-emergency-numbers/`) bør du klikke gjennom – Helsenorge endrer av og til URL-struktur. Hvis en engelsk side ikke finnes, pek heller til den norske.
-3. **Doseringsformulering:** Artikkelen nevner aldri medikamentnavn eller doser (jf. røde linjer), kun «febernedsettende … dose tilpasset vekt … les pakningsvedlegget». Bekreft at dette er trygt nok formulert for deg.
-4. **Medisinsk gjennomlesning:** Temaet berører varseltegn på alvorlig infeksjon (hjernehinnebetennelse). Innholdet er beskrivende og henviser til lege/113, ikke diagnostiserende – men en lege bør gjerne lese gjennom alarmsymptom-listen og glasstesten før publisering, siden dette er triage-innhold for barn.
-5. **EN-lengde:** Engelsk versjon er ~1280 ord (litt over 800–1100-rammen) fordi den inkluderer et ekstra forklaringsavsnitt om fastlege/legevakt/113-systemet for innflyttere. Kan kortes ned hvis du foretrekker å holde deg strengt innenfor rammen.
-
-## Publisering
-
-Når du godkjenner: flytt begge filer fra `/blogg/_drafts/` til `/blogg/`, legg de to URL-ene til i `sitemap.xml`, og publiser via GitHub Desktop (auto-deploy til Netlify). Husk dobbel lagring (OneDrive + GitHub).
-
-*Ingen git commit/push er utført – utkastene venter på din godkjenning.*
+Ingen git commit/push er gjort – utkastet ligger klart i _drafts for din gjennomgang og publisering via GitHub Desktop mandag morgen.
