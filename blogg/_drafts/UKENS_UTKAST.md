@@ -1,46 +1,48 @@
-# Ukens bloggutkast – klar for gjennomgang
-
-**Generert:** fredag 3. juli 2026 (automatisk ukentlig kjøring)
-**Planlagt publisering:** mandag 6. juli 2026 kl. 08:00
+# Ukens utkast – til publisering mandag 20. juli 2026
 
 ## Tittel
-**Vannkopper, RS-virus og skarlagensfeber: en foreldreguide**
+**Hvor lang er ventetiden for å bytte fastlege i Drammen i 2026?**
+(EN: How long does it take to change your GP in Drammen in 2026?)
 
-## Tema og kategori
-Tema 4 – Familie og barn. Valgt fra TOPIC_QUEUE (raden for 6. juli). Den øverste "pending"-raden (4. mai) er en tom plassholder uten tittel/kategori og med dato i fortid, så den ble hoppet over til fordel for det neste reelle temaet, som også faller på førstkommende mandag.
+## Målgruppe og SEO
+- **Målgruppe:** Primær 1 – den aktive byttekandidaten i Drammen (misfornøyd, nyinnflyttet eller uten fastlege) som trenger en grunn og en trygg vei inn til Hotvet.
+- **Tema-kategori:** 1 – Bytte fastlege (høyest transaksjonell SEO-verdi).
+- **SEO-nøkkelord:** «ventetid bytte fastlege», «bytte fastlege Drammen», «ledig fastlege Drammen», «fastlege ledig Drammen», «ny fastlege Drammen». EN: «change GP Drammen», «GP waiting time Norway», «English speaking doctor Drammen».
+- **Meta-beskrivelse (NO):** «Selve byttet tar tre minutter, men å finne en ledig plass er den egentlige flaskehalsen i 2026. Her er ventetidene – og slik korter du dem ned i Drammen.» (156 tegn)
 
-## Målgruppe
-Primær 2 (den bekymrede førstegangssøkeren – forelder som googler barnesymptomer) + sekundær (barnefamilier og innflyttere). EN-versjonen er tilpasset engelsktalende foreldre i Drammen med ekstra kontekst om hvordan fastlege/legevakt/113 fungerer.
+## Sammendrag (5 linjer)
+1. Selve byttet på Helsenorge tar minutter og trer i kraft den 1. i påfølgende måned – den egentlige ventetiden er å finne en ledig plass.
+2. Sommeren 2026 var bare ~20 % av fastlegelistene åpne, 30 % av kommunene hadde ingen ledige plasser, og ~180 000 sto uten fast lege (per mai 2025).
+3. Median ventetid stabiliserte seg i 2024–2025, mens gjennomsnittet fortsatt stiger – noen få venter uvanlig lenge og trekker snittet opp.
+4. Fire konkrete grep korter ned ventetiden: prioriter åpne lister, sjekk ofte, vær fleksibel på legekontor, og bruk de to årlige byttene dine.
+5. Soft CTA: Hotvet har ledige plasser i Rosenkrantzgata 75 – ingen kø.
 
-## SEO-nøkkelord
-`vannkopper barn`, `RS-virus barn`, `skarlagensfeber`, `barnesykdommer`, `barn feber`, `når kontakte lege barn`, `fastlege Drammen`. EN: `chickenpox children`, `RSV children`, `scarlet fever`, `childhood illnesses Norway`, `GP Drammen English`.
+## Filstier
+- **NO:** `/blogg/_drafts/ventetid-bytte-fastlege-drammen-2026.html`
+- **EN:** `/blogg/_drafts/waiting-time-change-gp-drammen-2026.html` (tilpasset, ikke oversatt – har ekstra avsnitt som forklarer det norske fastlegesystemet for engelsktalende innflyttere)
 
-## 5-linjers sammendrag
-1. Går gjennom tre vanlige barnesykdommer – vannkopper (virus, selvbegrensende), RS-virus (luftveisvirus, farligst for spedbarn) og skarlagensfeber (bakteriell, behandles med antibiotika).
-2. For hver sykdom: typiske symptomer, forløp og hva du kan gjøre hjemme.
-3. Egen seksjon om når barnet må holdes hjemme fra barnehage/skole (FHIs råd), per sykdom.
-4. Klar "røde flagg"-liste med tegn som alltid bør vurderes av lege, samt hvem du ringer (fastlege / 116 117 / 113).
-5. Forebygging (håndhygiene, vaksine), soft CTA mot Hotvet, disclaimer "snakk med legen din".
+## Kilder sitert (alle norske, autoritative)
+1. Helsedirektoratet – Innbyggere uten fast lege (~180 000 uten fastlege, per mai 2025)
+2. Helsedirektoratet – Bytte av fastlege, ventelister og ledige plasser (20 % åpne lister, 30 % av kommuner uten ledige plasser, ventetidstrend)
+3. Helsenorge – Om bytte av fastlege (BankID, virkning fra 1. i påfølgende måned, journaloverføring)
+4. Lovdata – Forskrift om pasient- og brukerrettigheter i fastlegeordningen (rett til å bytte inntil to ganger per år, unntak ved flytting/listereduksjon)
 
-## Filer
-- **NO:** `/blogg/_drafts/vannkopper-rs-virus-skarlagensfeber-barn.html` (953 ord)
-- **EN:** `/blogg/_drafts/chickenpox-rsv-scarlet-fever-children-en.html` (1143 ord, tilpasset)
-
-## Kilder sitert (alle norske autoritative)
-- Helsenorge – Vannkopper
-- FHI – Varicella (vannkopper)
-- FHI – RS-virus, informasjon til befolkningen
-- FHI – Streptokokk gruppe A-infeksjon
-- Helsedirektoratet – Streptokokkhalsinfeksjon og skarlagensfeber
-- FHI – Når bør barnet være hjemme fra barnehagen?
-
-Interne lenker: NO peker til barn-feber-natt-legevakt-fastlege.html, barnevaksinasjonsprogrammet-2026.html, ringe-113-legevakt-fastlege.html, teamet.html. EN peker til child-fever-night-when-to-call.html, childhood-vaccination-norway.html, call-113-legevakt-gp.html, /en/team.html.
+## Interne lenker brukt
+- NO: /blogg/bytte-fastlege-drammen.html, /blogg/hvorfor-bytte-fastlege.html, /blogg/ny-i-drammen-fastlege.html, /ledig-fastlege-drammen.html
+- EN: /blogg/change-gp-drammen.html, /blogg/why-change-gp.html, /blogg/new-to-drammen-find-gp.html, /ledig-fastlege-drammen.html
+(Alle mål er verifisert å finnes i repoet.)
 
 ## Ting Goran bør faktasjekke / vurdere før publisering
-1. **Antibiotika-formulering:** Teksten sier skarlagensfeber behandles med "smalspektret penicillin, vanligvis i fem dager" (fra Helsedirektoratets retningslinje). Ingen dose oppgitt. Vurder om dere vil beholde legemiddelnavnet eller nøye dere med "antibiotika foreskrevet av lege".
-2. **Tittel endret:** Køens tittel var "Barnesykdommer om våren…". Siden vi publiserer i juli, fjernet jeg "om våren" og gjorde tittelen sesongnøytral. Endre gjerne tilbake om dere ønsker.
-3. **Interne EN-lenker:** Sjekk at `/en/team.html`, `child-fever-night-when-to-call.html` og `call-113-legevakt-gp.html` er publisert live (var i blogg-mappen ved skriving). Rett stien om noe har flyttet.
-4. **Helsenorge EN-lenke:** NO-kilden bruker helsenorge.no/sykdom/... ; EN-versjonen lenker til helsenorge.no/en/sykdom/... – verifiser at engelsk vannkopper-side finnes, ellers pek til NO-siden.
-5. **RS-virus sesong:** Artikkelen sier RS-virus sirkulerer høst/vinter (korrekt), men publiseres om sommeren. Innholdet er evergreen, men vurder om dere heller vil løfte RS-virus i en høstpublisering.
+- **Tall fra mai 2025:** De tre nøkkeltallene (20 % åpne lister, 30 % av kommuner, ~180 000 uten fastlege) er de ferskeste offisielle fra Helsedirektoratet på skrivetidspunktet. Sjekk gjerne Helsedirektoratets månedsrapport for et enda ferskere 2026-tall før publisering – hvis nye tall foreligger, oppdater de tre fete tallene i begge språkversjoner.
+- **Ingen presis «antall dager»-ventetid** oppgis bevisst, siden gjennomsnitt/median-tallet varierer og lett blir misvisende. Artikkelen bruker kvalitativ formulering («median stabilisert, snitt stiger»). Vurder om du vil legge til et konkret dagtall dersom du har en fersk, sitérbar kilde.
+- **Lokal Drammen-påstand:** Teksten sier at «flere av de etablerte legesentrene i sentrum har hatt fulle lister over tid». Dette er en generell, forsiktig formulering uten å navngi konkurrenter (i tråd med røde linjer). Bekreft at den stemmer med din lokalkunnskap.
+- **Ledige plasser hos Hotvet:** CTA forutsetter at Hotvet fortsatt har ledige plasser. Bekreft at /ledig-fastlege-drammen.html er oppdatert.
 
-Ingen git commit/push er gjort – utkastet ligger klart i _drafts for din gjennomgang og publisering via GitHub Desktop mandag morgen.
+## Røde linjer – sjekket ✔
+- Ingen alvorlig kronisk sykdom berørt (rent fastlegeordning-/administrativt tema).
+- Ingen diagnoser, ingen navngitte medisiner, ingen behandlingsgarantier.
+- Ingen pasienthistorier. Ingen negativ sammenligning med navngitte konkurrenter.
+- Drammen nevnt flere ganger; Rosenkrantzgata 75 nevnt. Disclaimer inkludert.
+
+## Publisering
+Utkast ligger i `/blogg/_drafts/` og er IKKE live. For å publisere: kopier begge HTML-filene til `/blogg/`, legg dem inn i bloggindeksene (index.html + index_en.html), oppdater sitemap.xml, og push. Ingen git-handling er utført av dette utkastet.

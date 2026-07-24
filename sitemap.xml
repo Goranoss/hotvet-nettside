@@ -13,6 +13,16 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/index_en.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/"/>
   </url>
+  <url>
+    <loc>https://hotvetlegesenter.com/index_en.html</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/index_en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/"/>
+  </url>
 
   <!-- Tjenester / Services -->
   <url>
@@ -181,7 +191,7 @@
   </url>
   <url>
     <loc>https://hotvetlegesenter.com/blogg/index_en.html</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/"/>
@@ -511,7 +521,7 @@
   </url>
   <url>
     <loc>https://hotvetlegesenter.com/blogg/chickenpox-rsv-scarlet-fever-children-en.html</loc>
-    <lastmod>2026-07-06</lastmod>
+    <lastmod>2026-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/vannkopper-rs-virus-skarlagensfeber-barn.html"/>
