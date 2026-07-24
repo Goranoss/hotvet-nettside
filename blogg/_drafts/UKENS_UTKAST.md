@@ -1,48 +1,48 @@
-# Ukens utkast – til publisering mandag 20. juli 2026
+# Ukens bloggutkast – til godkjenning
+
+**Generert:** fredag 24. juli 2026
+**Planlagt publisering:** mandag 27. juli 2026 kl. 08:00
 
 ## Tittel
-**Hvor lang er ventetiden for å bytte fastlege i Drammen i 2026?**
-(EN: How long does it take to change your GP in Drammen in 2026?)
+**Blodtrykk, kolesterol og blodsukker: tallene du bør kjenne til**
+
+Temakategori: 6 – Forebygging og livsstil
+(Valgt fritt fra "Ideer på lager" – køen hadde ingen pending-rad ved kjøring. Tema 6 var sist brukt 1. juni, så rotasjonsmessig var det på tur. Videokonsultasjon-ideen ble droppet fordi den artikkelen allerede er publisert.)
 
 ## Målgruppe og SEO
-- **Målgruppe:** Primær 1 – den aktive byttekandidaten i Drammen (misfornøyd, nyinnflyttet eller uten fastlege) som trenger en grunn og en trygg vei inn til Hotvet.
-- **Tema-kategori:** 1 – Bytte fastlege (høyest transaksjonell SEO-verdi).
-- **SEO-nøkkelord:** «ventetid bytte fastlege», «bytte fastlege Drammen», «ledig fastlege Drammen», «fastlege ledig Drammen», «ny fastlege Drammen». EN: «change GP Drammen», «GP waiting time Norway», «English speaking doctor Drammen».
-- **Meta-beskrivelse (NO):** «Selve byttet tar tre minutter, men å finne en ledig plass er den egentlige flaskehalsen i 2026. Her er ventetidene – og slik korter du dem ned i Drammen.» (156 tegn)
+- **Primær 2 – den bekymrede som googler:** folk som nettopp har fått prøvesvar/blodtrykk og lurer på hva tallene betyr.
+- **Sekundær:** voksne i Drammen som tar årskontroll / tenker forebygging.
+- **SEO-nøkkelord:** blodtrykk normalverdier, kolesterolverdier, blodsukker/HbA1c, høyt blodtrykk, forebygging hjerte- og karsykdom, fastlege Drammen. EN-versjon sikter også mot «GP Drammen English / blood test values Norway».
 
 ## Sammendrag (5 linjer)
-1. Selve byttet på Helsenorge tar minutter og trer i kraft den 1. i påfølgende måned – den egentlige ventetiden er å finne en ledig plass.
-2. Sommeren 2026 var bare ~20 % av fastlegelistene åpne, 30 % av kommunene hadde ingen ledige plasser, og ~180 000 sto uten fast lege (per mai 2025).
-3. Median ventetid stabiliserte seg i 2024–2025, mens gjennomsnittet fortsatt stiger – noen få venter uvanlig lenge og trekker snittet opp.
-4. Fire konkrete grep korter ned ventetiden: prioriter åpne lister, sjekk ofte, vær fleksibel på legekontor, og bruk de to årlige byttene dine.
-5. Soft CTA: Hotvet har ledige plasser i Rosenkrantzgata 75 – ingen kø.
+1. Forklarer hvorfor blodtrykk, kolesterol og blodsukker er de tre viktigste – og mest påvirkbare – tallene for hjertehelsa.
+2. Gir konkrete norske referanseverdier for blodtrykk (Helsenorge), kolesterol (Helsedirektoratet/Helsenorge) og blodsukker/HbA1c (Helsedirektoratet/NHI), presentert i to enkle tabeller.
+3. Understreker at tallene tolkes samlet og over tid – ikke enkeltmålinger – og at det ikke finnes ett «normaltall» for kolesterol.
+4. Setter det inn i folkehelsekontekst via FHI (ca. 412 000 hjerte-kar-pasienter i 2025; over halvparten kan forebygges).
+5. Avsluttes med konkrete steg (Helsenorge, årskontroll, levevaner), disclaimer «Snakk med legen din» + 113/116 117, og myk CTA mot Hotvets ledige lister.
 
 ## Filstier
-- **NO:** `/blogg/_drafts/ventetid-bytte-fastlege-drammen-2026.html`
-- **EN:** `/blogg/_drafts/waiting-time-change-gp-drammen-2026.html` (tilpasset, ikke oversatt – har ekstra avsnitt som forklarer det norske fastlegesystemet for engelsktalende innflyttere)
+- **NO:** `/blogg/_drafts/blodtrykk-kolesterol-blodsukker-tallene.html` (993 ord)
+- **EN:** `/blogg/_drafts/blood-pressure-cholesterol-blood-sugar-numbers-en.html` (1196 ord – litt lengre fordi den er tilpasset engelsktalende med ekstra kontekst om mmol/L vs mg/dL og fastlegeordningen)
 
-## Kilder sitert (alle norske, autoritative)
-1. Helsedirektoratet – Innbyggere uten fast lege (~180 000 uten fastlege, per mai 2025)
-2. Helsedirektoratet – Bytte av fastlege, ventelister og ledige plasser (20 % åpne lister, 30 % av kommuner uten ledige plasser, ventetidstrend)
-3. Helsenorge – Om bytte av fastlege (BankID, virkning fra 1. i påfølgende måned, journaloverføring)
-4. Lovdata – Forskrift om pasient- og brukerrettigheter i fastlegeordningen (rett til å bytte inntil to ganger per år, unntak ved flytting/listereduksjon)
+## Interne lenker brukt (alle verifisert at de finnes)
+- NO: årskontroll-fastlege-hva-skjer.html, slik-bruker-du-helsenorge.html, sovn-og-helse-nar-soke-hjelp.html, /ledig-fastlege-drammen.html
+- EN: annual-health-check-gp.html, how-to-use-helsenorge.html, sleep-and-health-when-to-seek-help.html, /ledig-fastlege-drammen.html
 
-## Interne lenker brukt
-- NO: /blogg/bytte-fastlege-drammen.html, /blogg/hvorfor-bytte-fastlege.html, /blogg/ny-i-drammen-fastlege.html, /ledig-fastlege-drammen.html
-- EN: /blogg/change-gp-drammen.html, /blogg/why-change-gp.html, /blogg/new-to-drammen-find-gp.html, /ledig-fastlege-drammen.html
-(Alle mål er verifisert å finnes i repoet.)
+## Kilder sitert (4 autoritative norske)
+1. Helsenorge – Høyt blodtrykk: https://www.helsenorge.no/sykdom/hjerte-og-kar/hoyt-blodtrykk/
+2. Helsenorge – Høyt kolesterol: https://www.helsenorge.no/sykdom/hjerte-og-kar/kolesterol/
+3. Helsedirektoratet – Behandlingsmål for HbA1c ved diabetes type 2: https://www.helsedirektoratet.no/retningslinjer/diabetes/behandling-med-blodsukkersenkende-legemidler-ved-diabetes/blodsukkersenkende-behandling-og-behandlingsmal-ved-diabetes-type-2/behandlingsmal-for-hba1c-ved-diabetes-type-2
+4. FHI – Hjerte- og karsykdommer i Norge (Folkehelserapporten): https://www.fhi.no/he/fr/folkehelserapporten/ikke-smittsomme/Hjerte-kar/
 
 ## Ting Goran bør faktasjekke / vurdere før publisering
-- **Tall fra mai 2025:** De tre nøkkeltallene (20 % åpne lister, 30 % av kommuner, ~180 000 uten fastlege) er de ferskeste offisielle fra Helsedirektoratet på skrivetidspunktet. Sjekk gjerne Helsedirektoratets månedsrapport for et enda ferskere 2026-tall før publisering – hvis nye tall foreligger, oppdater de tre fete tallene i begge språkversjoner.
-- **Ingen presis «antall dager»-ventetid** oppgis bevisst, siden gjennomsnitt/median-tallet varierer og lett blir misvisende. Artikkelen bruker kvalitativ formulering («median stabilisert, snitt stiger»). Vurder om du vil legge til et konkret dagtall dersom du har en fersk, sitérbar kilde.
-- **Lokal Drammen-påstand:** Teksten sier at «flere av de etablerte legesentrene i sentrum har hatt fulle lister over tid». Dette er en generell, forsiktig formulering uten å navngi konkurrenter (i tråd med røde linjer). Bekreft at den stemmer med din lokalkunnskap.
-- **Ledige plasser hos Hotvet:** CTA forutsetter at Hotvet fortsatt har ledige plasser. Bekreft at /ledig-fastlege-drammen.html er oppdatert.
+- **Tallene (viktigst):** Verifiser referanseverdiene mot kildene. Fra søket:
+  - Blodtrykk: optimalt <120/80, høyt normalt 130–139/85–89, høyt ≥140/≥90 (målt over tid). Kilde: Helsenorge.
+  - Kolesterol: totalkolesterol ≥7 mmol/L eller LDL >5 mmol/L bør vanligvis vurderes; HDL helst >~1,1–1,3; triglyserider <2. Bevisst IKKE oppgitt ett fast «normalt» LDL-tall, siden det er risikoavhengig. Kilde: Helsedirektoratet/Helsenorge.
+  - Blodsukker: HbA1c frisk 20–42 mmol/mol (4–6 %), diabetes ≥48 mmol/mol (6,5 %) i to prøver; fastende <6,0 friskt, ≥7,0 (to målinger) = diabeteskriterium. Kilde: Helsedirektoratet/NHI.
+- **Røde linjer overholdt:** Ingen diagnoser stilles (kun kriterier legen bruker), ingen navngitte legemidler, ingen «kurerer/garantert», ingen pasienthistorier, ingen negativ sammenligning. Diabetes type 2 / høyt blodtrykk er kroniske, men IKKE på listen som krever legegodkjenning (kreft/demens/alvorlige psykiske lidelser). Vurder likevel gjerne en rask legeblikk på tabellene siden det er tallfestede grenseverdier.
+- **Lenken /ledig-fastlege-drammen.html** – bekreft at siden fortsatt er den rette CTA-destinasjonen.
+- **EN-lengde:** 1196 ord er litt over 800–1100. Kan trimmes hvis ønskelig, men lengden skyldes bevisst ekstra kontekst for engelsktalende.
 
-## Røde linjer – sjekket ✔
-- Ingen alvorlig kronisk sykdom berørt (rent fastlegeordning-/administrativt tema).
-- Ingen diagnoser, ingen navngitte medisiner, ingen behandlingsgarantier.
-- Ingen pasienthistorier. Ingen negativ sammenligning med navngitte konkurrenter.
-- Drammen nevnt flere ganger; Rosenkrantzgata 75 nevnt. Disclaimer inkludert.
-
-## Publisering
-Utkast ligger i `/blogg/_drafts/` og er IKKE live. For å publisere: kopier begge HTML-filene til `/blogg/`, legg dem inn i bloggindeksene (index.html + index_en.html), oppdater sitemap.xml, og push. Ingen git-handling er utført av dette utkastet.
+## Publisering (husk – utkast er IKKE live før dette gjøres)
+Kopier begge filene fra `/blogg/_drafts/` til `/blogg/`, legg dem inn i begge bloggindekser (index.html + index_en.html), legg URL-ene i sitemap.xml, deretter commit + push. Sett status til `published` i TOPIC_QUEUE.md.
