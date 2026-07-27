@@ -51,7 +51,7 @@
   "author":{"@type":"Organization","name":"Hotvet legesenter","url":"https://hotvetlegesenter.com"},
   "publisher":{"@type":"Organization","name":"Hotvet legesenter","logo":{"@type":"ImageObject","url":"https://hotvetlegesenter.com/logo.png"}},
   "datePublished":"2026-07-13T08:00:00+02:00",
-  "dateModified":"2026-07-27T08:00:00+02:00",
+  "dateModified":"2026-07-13T08:00:00+02:00",
   "mainEntityOfPage":{"@type":"WebPage","@id":"https://hotvetlegesenter.com/blogg/insect-stings-allergy-when-to-see-doctor-en.html"},
   "inLanguage":"en",
   "articleSection":"Seasonal health",
