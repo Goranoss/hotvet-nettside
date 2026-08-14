@@ -1,44 +1,53 @@
-# Ukens bloggutkast – til publisering mandag 10. august 2026
+# Ukens utkast – til godkjenning
+
+**Generert:** fredag 14. august 2026
+**Planlagt publisering:** mandag 17. august 2026 kl. 08:00
 
 ## Tittel
-**Slik fornyer du resept digitalt – uten å møte opp på legekontoret**
-(EN: *How to renew a prescription online in Norway – without visiting the clinic*)
 
-## Tema og kategori
-Tema 5 – Digital hverdag (helse på nett). Valgt fordi køen ikke hadde noen pending-rad, og rotasjonen tilsa Tema 5: de fire foregående ukene var Tema 2, 1, 6 og 3, og Tema 5 var sist brukt 8. juni. Temaet støtter direkte SEO-hovedmål #4 (digital fastlege Drammen / e-konsultasjon).
+**Gravid i Drammen: fastlegens rolle i svangerskapet**
+(EN: *Pregnant in Drammen: your GP's role in pregnancy care*)
 
-## Målgruppe
-Primær 2 (den som googler et praktisk helsespørsmål og lander trygt hos oss) og sekundært innflyttere/fremmedspråklige – derfor har den engelske versjonen ekstra kontekst om det norske systemet (fastlege, BankID, egenandel).
+## Målgruppe og SEO
 
-## SEO-nøkkelord
-`fornye resept`, `digital resept`, `e-resept`, `resept på nett`, `Helsenorge resept`, `digital fastlege Drammen`, `e-konsultasjon Drammen`. EN: `renew prescription Norway`, `GP Drammen English`, `e-resept`.
+- **Målgruppe:** Sekundærmålgruppe barnefamilier + gravide/nybakte foreldre i Drammen, og engelsktalende innflyttere (Primær 2 – den bekymrede søkeren som googler først).
+- **Temakategori:** 4 – Familie og barn (mest overdue i rotasjonen; sist brukt 6. juli).
+- **SEO-nøkkelord:** gravid Drammen, svangerskapskontroll fastlege, fastlege svangerskap, svangerskapsomsorg Drammen, jordmor eller fastlege. EN: pregnancy care Drammen, GP pregnancy Norway, English speaking GP Drammen.
+- Fersk vinkel – ingen eksisterende artikkel dekker svangerskap/gravid. Distinkt fra barnevaksine- og feber-artiklene i Tema 4.
 
-## 5-linjers sammendrag
-1. Nesten alle resepter i Norge er digitale (e-resept) og lagres i den nasjonale Reseptformidleren – du kan hente på hvilket apotek du vil.
-2. Du fornyer en fast resept via «Forny resept» på Helsenorge med BankID, i fem enkle steg, uten oppmøte.
-3. Ren fornyelse er som regel gratis; en e-konsultasjon (der legen gjør en medisinsk vurdering) utløser vanlig egenandel og svar innen noen virkedager.
-4. Noen ting krever oppmøte: vanedannende legemidler, manglende kontroll over tid, eller ny/endret medisin – legen avgjør alltid.
-5. Systemet er trygt (BankID/Buypass, kryptert, drevet av Norsk helsenett), men erstatter ikke legens skjønn; 116 117 / 113 nevnt for akutt.
+## Sammendrag (5 linjer)
+
+1. Forklarer at svangerskapsomsorgen i Norge går gjennom primærhelsetjenesten, med fastlegen som en bærebjelke.
+2. Den gravide velger fritt mellom fastlege, jordmor eller begge – fordelen med fastlege er kontinuitet før, under og etter fødsel.
+3. Gjennomgår basisprogrammet: ni kontroller, første time i uke 8–12 (senest én uke etter kontakt), to ultralyder (uke 11–14 og 18–19).
+4. Dekker folattilskudd (400 µg iht. Helsedirektoratet), levevaner tidlig, og når man trenger tettere oppfølging (høyt blodtrykk, diabetes m.m.).
+5. Understreker at alt er gratis (fritatt egenandel), med henvisningsråd (fastlege / 116 117 / 113) og soft CTA mot Hotvet.
 
 ## Filstier
-- NO: `/blogg/_drafts/slik-fornyer-du-resept-digitalt.html`
-- EN: `/blogg/_drafts/renew-prescription-online-drammen-en.html`
 
-Begge er 900–960 ord, følger husmalen (samme CSS, schema.org Article + BreadcrumbList, hreflang begge veier), meta-beskrivelse 151/155 tegn. Publiseringsdato satt til `2026-08-10T08:00:00+02:00`.
+- **NO:** `/blogg/_drafts/gravid-drammen-fastlegens-rolle.html` (873 ord)
+- **EN:** `/blogg/_drafts/pregnancy-care-drammen-gp-role-en.html` (1098 ord – tilpasset, med ekstra kontekst om det norske systemet for innflyttere)
 
-## Interne lenker (verifisert at målsidene finnes)
-- NO → slik-bruker-du-helsenorge.html, videokonsultasjon-fastlege-drammen.html, tjenester.html, ledig-fastlege-drammen.html
-- EN → how-to-use-helsenorge.html, video-consultation-gp-drammen.html, tjenester_en.html, ledig-fastlege-drammen_en.html
+## Kilder sitert (4 autoritative, alle norske)
 
-## Kilder sitert (norske autoritative)
-- Helsenorge – Fastlegen og digitale tjenester (NO: /fastlege/, EN: /en/your-gp/)
-- Helsedirektoratet – E-resept: rekvireringer og utleveringer (nasjonal digitaliseringsmonitor)
-- Norsk helsenett – Om e-resept og Reseptformidleren
+1. [Helsedirektoratet – Konsultasjoner i svangerskapsomsorgen](https://www.helsedirektoratet.no/retningslinjer/svangerskapsomsorgen/konsultasjoner-i-svangerskapsomsorgen) – ni konsultasjoner, valg fastlege/jordmor, første time innen én uke, ultralyd uke 11–14 og 18–19.
+2. [Helsedirektoratet – Kosthold og folattilskudd hos gravide](https://www.helsedirektoratet.no/retningslinjer/svangerskapsomsorgen/levevaner-hos-gravide-tidlig-samtale-og-radgiving/gravide-bor-fa-informasjon-og-samtale-om-et-sunt-og-variert-kosthold-folattilskudd-og-ved-behov-enkelte-andre-kosttilskudd) – 400 µg folat fra planlegging og gjennom første tolv uker.
+3. [Helsenorge – Gravid](https://www.helsenorge.no/gravid/) – generell pasientinfo, svangerskapspoliklinikk.
+4. [Helsebiblioteket – Nasjonal faglig retningslinje for svangerskapsomsorgen](https://www.helsebiblioteket.no/innhold/nasjonal-faglig-retningslinje/svangerskapsomsorgen) – overordnet retningslinje.
 
-## Ting Goran (eller lege) bør faktasjekke før publisering
-1. **Egenandel/gratis-formulering:** Artikkelen sier en ren reseptfornyelse «som regel» er gratis, mens e-konsultasjon utløser «vanlig egenandel». Jeg har bevisst IKKE oppgitt kronebeløp (endrer seg og varierer fastlege/spesialist). Vurder om dere vil legge til et konkret beløp fra egen prisliste – i så fall, dobbeltsjekk mot /priser.html.
-2. **«Forny resept» tilgjengelig hos Hotvet:** Teksten sier tjenesten finnes «hvis legekontoret ditt har den aktivert». Bekreft at Hotvet faktisk har digital dialog / Forny resept aktivert på Helsenorge før publisering, evt. juster formuleringen.
-3. **Svartid:** Jeg skriver «innen noen få virkedager» for e-konsultasjon (kilder oppgir 1–5 virkedager). Juster hvis dere har egen SLA.
-4. Ingen røde linjer berørt: ingen navngitte legemidler eller doser, ingen diagnoser, ingen pasienthistorier, ingen negativ sammenligning med andre klinikker. 116 117 / 113 er inkludert.
+## Ting Goran bør faktasjekke / vurdere før publisering
 
-**Publisering:** Følg 4-stegs rutinen (kopier begge filer fra _drafts/ til /blogg/, oppdater begge bloggindekser og sitemap.xml) før push. Ingen git-handling er gjort av meg.
+- **Antall kontroller (9 vs 8):** Gjeldende Helsedirektoratet-retningslinje angir **ni** konsultasjoner (inkl. ultralyd/fosterdiagnostikk). En eldre variant nevner åtte. Jeg brukte ni, som er dagens standard. Verdt et raskt blikk hvis dere vil være helt sikre.
+- **Tidlig ultralyd uke 11–14:** Tilbys alle gravide siden 2022. Bekreftet, men greit å vite hvis noen spør.
+- **Folat som "kosttilskudd":** Omtalt som tilskudd/kosttilskudd (ikke reseptbelagt legemiddel), i tråd med røde linjer. Ingen dose på reseptbelagte medisiner nevnt.
+- **CTA:** Skrevet som at Hotvet er åpent ("ligger i Rosenkrantzgata 75"), ikke "åpner juni 2026". Sjekk at formuleringen passer.
+- **Faglig godkjenning:** Temaet er normalt svangerskap (ikke alvorlig kronisk sykdom), så det krever ikke legesignatur etter strategiens røde linjer. Men siden det er kvinnehelse/svangerskap, kan det være fint om en av legene leser gjennom før publisering.
+
+## Publisering (huskeliste for mandag)
+
+Utkastene ligger i `_drafts/` og er **ikke live**. Fire steg før push:
+1. Kopier begge HTML til `/blogg/`.
+2. Legg inn i norsk bloggindeks (`blogg/index.html`).
+3. Legg inn i engelsk bloggindeks (`blogg/index_en.html`).
+4. Legg begge URL-er i `sitemap.xml`.
+Deretter commit + push (Netlify auto-deployer).
