@@ -1,5 +1,5 @@
 # robots.txt for Hotvet legesenter — https://hotvetlegesenter.com
-# Updated: 2026-05-18
+# Updated: 2026-08-17
 
 User-agent: *
 Allow: /
@@ -14,6 +14,7 @@ Disallow: /*.md$
 Disallow: /blogg/_drafts/
 Disallow: /_old-design/
 Disallow: /*.backup*
+Disallow: /*.fuse_hidden*
 
 # AI crawlers er tillatt for synlighet i AI-svar
 # (Google AI Overviews / Gemini, ChatGPT / GPTBot,

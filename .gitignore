@@ -1,0 +1,7 @@
+# OneDrive/FUSE-artefakter — skal aldri i repoet
+.fuse_hidden*
+
+# OS-filer
+.DS_Store
+Thumbs.db
+desktop.ini

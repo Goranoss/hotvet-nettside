@@ -67,3 +67,18 @@
 /blogg/child-fever-night-when-to-call    /blogg/child-fever-night-when-to-call.html    301
 /blogg/vannkopper-rs-virus-skarlagensfeber-barn   /blogg/vannkopper-rs-virus-skarlagensfeber-barn.html   301
 /blogg/chickenpox-rsv-scarlet-fever-children-en   /blogg/chickenpox-rsv-scarlet-fever-children-en.html   301
+/blogg/insektstikk-allergi-nar-kontakte-lege      /blogg/insektstikk-allergi-nar-kontakte-lege.html      301
+/blogg/insect-stings-allergy-when-to-see-doctor-en /blogg/insect-stings-allergy-when-to-see-doctor-en.html 301
+/blogg/ventetid-bytte-fastlege-drammen-2026       /blogg/ventetid-bytte-fastlege-drammen-2026.html       301
+/blogg/waiting-time-change-gp-drammen-2026        /blogg/waiting-time-change-gp-drammen-2026.html        301
+/blogg/blodtrykk-kolesterol-blodsukker-tallene    /blogg/blodtrykk-kolesterol-blodsukker-tallene.html    301
+/blogg/blood-pressure-cholesterol-blood-sugar-numbers-en /blogg/blood-pressure-cholesterol-blood-sugar-numbers-en.html 301
+/blogg/hva-gjor-drammen-legevakt                  /blogg/hva-gjor-drammen-legevakt.html                  301
+/blogg/what-drammen-legevakt-does-en              /blogg/what-drammen-legevakt-does-en.html              301
+/blogg/slik-fornyer-du-resept-digitalt            /blogg/slik-fornyer-du-resept-digitalt.html            301
+/blogg/renew-prescription-online-drammen-en       /blogg/renew-prescription-online-drammen-en.html       301
+/blogg/gravid-drammen-fastlegens-rolle            /blogg/gravid-drammen-fastlegens-rolle.html            301
+/blogg/pregnancy-care-drammen-gp-role-en          /blogg/pregnancy-care-drammen-gp-role-en.html          301
+
+# Merk: Netlify serverer /404.html automatisk for ukjente stier.
+# Ingen catch-all-regel er nødvendig (og vil kunne skygge for statiske filer).
