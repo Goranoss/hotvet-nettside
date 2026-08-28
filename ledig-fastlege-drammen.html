@@ -91,6 +91,7 @@ section{padding:4.5rem 3rem;}
 .doctors-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1.25rem;margin-top:2rem;}
 .doc-card{background:var(--white);border-radius:8px;overflow:hidden;border:1px solid rgba(164,173,152,.2);}
 .doc-placeholder{width:100%;height:240px;background:var(--dg);display:flex;align-items:center;justify-content:center;font-family:'IBM Plex Serif',serif;font-size:32px;font-weight:500;color:var(--cream);}
+.doc-photo{width:100%;height:240px;object-fit:cover;object-position:center top;display:block;background:var(--dg);}
 .doc-info{padding:1.25rem;}
 .doc-name{font-family:'IBM Plex Serif',serif;font-size:15px;font-weight:500;color:var(--dg);margin-bottom:4px;}
 .doc-spec{font-size:12px;font-weight:300;color:var(--muted);text-transform:uppercase;letter-spacing:.08em;}
@@ -137,7 +138,7 @@ footer{flex-direction:column;gap:1rem;text-align:center;}
 <body>
 <a href="#main-content" class="skip-link">Hopp til hovedinnhold</a>
 <nav>
-<div class="logo-wrap"><a href="index.html"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAABLCAYAAAA9c/5PAAAACXBIWXMAABYlAAAWJQFJUiTwAAAKpElEQVR4nO2c229TURDF5z7cAAyBtlhQ1VJFBYoXnhBViEcEPPDwgHjhCXhA/QWeCPBE/QUkHlDB06OUByR4aIkgKhUFKBPYd9vZ7d65d+7Onje75qzlndm7Z2btWZOZ4/W0vQwzJ3OuAsAEAAwBWAUwCmAMwM6cbf4tUDqVwI7XUzHnMgBMJSxp0YqeCe0r1KpyAwDGAYwBGAGwymvSEGWj+/PQsB2vp2KOCwBMAKgAEJW0qH3FWlUuABBxLgMwCGAQwCrXhCHKRvdnWkxqflzOZQDwekr6XACQ5mXSPjMWbXCeKZEiwFFEH8d2dDz9SqPQlIr1VGgOYcZ2dBrzzB/qbZsL3EUwACPCCHImQRQr1x9JiBsf1tFZHAr10K+9qLtfBvTxT2r6gAqv7MrUelNZK/8B1hs6TF3XzgYrD4JvOvX3vb1/2SZxuEwTZKI/KCYvepYpVddWwbkCrVqKdJo6nWqyKveGKQkPpKqWVDSqr/jdpzAkjm/pXrgPXKAl9eVGGvvqNtvMk1cYqKvxDNZcIvDOBKJ7j40VqEWVzLOBdJJKpnfqUajOB3SXqy0zyTX+o5Bm5NdWZEWa8iFDSmGNJ0FWx9pqONvfS4yqkxvajBLQlJy0s1SWl+R+6TQQDUk/kCH9Jtp5HrUEWDKRkDlkI9HuBlXD2eN7wGGZN7pjQqq5M2W/kwHaJ23XQeJvZp7FTmjpkkWxJOLd78PB8VhXTn0BYwEFrx8aLLUZYqFV/2rN7H7cHUC3TlhBFqbdI8YJEq0Ew8Ol9WvQKd2L6W2oFSJmNvfE2/yEm6K8Qr3tQJqqjwzm+Kqz0b/P32sLHmhL/LfYXCZ9W+d4EJlI7/wT/AEa32YZU32rpBRK+OC0cHuMHj1v/e9CXBIEkG1ky0mRuV5aRDR/AEavsG7mNohmuFDqjKn+ufK3OI8A1pJkEhXu4XP+T3dSa8/K/L0nCAD70nJf5B0cWpGpL5R+PlpTF8mZvGhqGRB4xwJgPKGZGfTsZfzpvRWwQqfCNZP7VEV3r/lquwWbQEj8L7eFvdGfxQBHHrAnFGnxGxWbMECqfDVZP7VEV3r/lpuwWbQEj/0KmxEV7rPlhuw+CIsdmJvW8A0IqHuF1GbQyZBWVzoL51dxMz+mHIz/KswEYu0cVuXMDgTe+GvQ38/qLIa5p7DU8GqbPFxJ+c/x1+BBIL1DXF1qL1HMVQN4c9pEaIpVcqfj75DYqS0dn3M1BKbq7jqM7qpKGDUHKABBp5Qg3v4oSU3KgwNSW7K/y4YTZLJ3gLdIIEqcsGvR5W0WLhkd/uRvXMETq4f5PJpfMXYO39+FiavFkgAGLIGTJKrVMuWCkfFZiISKGVMZ8UmBZVJhWVuY9MVyWd8+lCLqF6Oy8YDVGhDCqMcZ3UQvFdJWV+GNTPjzV7e3Gzh+WVOKxVhKKXM6Dz0dNQwUGi+YzV7Vr6j/TuSpCGtN4TjJvx6xNjYVOsm4SLfqQzaXhfRY4fZlTiQsxPQAWvR5u1lbOr/LLy0OApNDjZIGxEWqRBQ=" alt="Hotvet legesenter"></a></div>
+<div class="logo-wrap"><a href="index.html"><img src="/logo-main.png" alt="Hotvet legesenter"></a></div>
 <button class="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
 <ul class="nav-links">
 <li><a href="index.html">Hjem</a></li>
@@ -265,42 +266,42 @@ footer{flex-direction:column;gap:1rem;text-align:center;}
 <p class="sl">Vårt team består av erfarne leger med lang erfaring innen allmennmedisin.</p>
 <div class="doctors-grid">
 <div class="doc-card">
-<div class="doc-placeholder">AKA</div>
+<img class="doc-photo" src="/team/ahmed-akram.jpg" alt="Ahmed Akram" loading="lazy" width="400" height="240"/>
 <div class="doc-info">
 <div class="doc-name">Ahmed Akram</div>
 <div class="doc-spec">Spesialist i allmennmedisin</div>
 </div>
 </div>
 <div class="doc-card">
-<div class="doc-placeholder">IM</div>
+<img class="doc-photo" src="/team/inva-malaj.jpg" alt="Inva Malaj" loading="lazy" width="400" height="240"/>
 <div class="doc-info">
 <div class="doc-name">Inva Malaj</div>
 <div class="doc-spec">Spesialist i allmennmedisin</div>
 </div>
 </div>
 <div class="doc-card">
-<div class="doc-placeholder">MSM</div>
+<img class="doc-photo" src="/team/mari-melaaen.jpg" alt="Mari Sørum Melaaen" loading="lazy" width="400" height="240"/>
 <div class="doc-info">
 <div class="doc-name">Mari Sørum Melaaen</div>
 <div class="doc-spec">Spesialist i allmennmedisin</div>
 </div>
 </div>
 <div class="doc-card">
-<div class="doc-placeholder">AE</div>
+<img class="doc-photo" src="/team/anja-egilsdottir.jpg" alt="Anja Egilsdóttir" loading="lazy" width="400" height="240"/>
 <div class="doc-info">
 <div class="doc-name">Anja Egilsdottir</div>
 <div class="doc-spec">Allmennlege ALIS</div>
 </div>
 </div>
 <div class="doc-card">
-<div class="doc-placeholder">FB</div>
+<img class="doc-photo" src="/team/frida-borsting.jpg" alt="Frida Børsting" loading="lazy" width="400" height="240"/>
 <div class="doc-info">
 <div class="doc-name">Frida Børsting</div>
 <div class="doc-spec">Allmennlege ALIS</div>
 </div>
 </div>
 <div class="doc-card">
-<div class="doc-placeholder">HS</div>
+<img class="doc-photo" src="/team/hubert-shema.jpg" alt="Hubert Shema" loading="lazy" width="400" height="240"/>
 <div class="doc-info">
 <div class="doc-name">Hubert Shema</div>
 <div class="doc-spec">Allmennlege ALIS</div>
