@@ -1,4 +1,7 @@
-# Ukens utkast – planlagt publisering mandag 7. september 2026
+# Ukens utkast – PUBLISERT 4. september 2026
+
+> **Status:** begge artiklene er kopiert til `/blogg/`, lagt inn i `blogg/index.html`, `blogg/index_en.html` og `sitemap.xml`. Klar for push fra GitHub Desktop. Datoen i metadata står fortsatt til mandag 7. september kl. 08:00.
+
 
 ## Tittel
 
@@ -52,7 +55,7 @@ Alle bekreftet at de finnes i repoet. Eneste «døde» lenker er NO↔EN-språkb
 2. **Legemiddelformuleringen i callout-boksen.** Helsenorge nevner acetylsalisylsyre (Coxor/Aspirin) ved mistanke om hjerteinfarkt. Jeg har bevisst *ikke* navngitt legemiddel eller dose, og skriver kun at operatøren kan gi råd om «et reseptfritt blodfortynnende legemiddel». Sjekk at du er komfortabel med den avveiningen – alternativet er å fjerne setningen helt.
 3. **Setningen om at man ikke skal kjøre selv.** Denne er faglig standard, men er min formulering og ikke direkte sitert fra en kilde. Vurder om den skal stå slik, eller kortes til «ring 113, ikke kjør selv».
 4. **Språkrådet i EN-versjonens callout.** Formulert som praktisk råd («si i starten av samtalen at du trenger engelsk»), ikke som en garanti om at alle operatører snakker engelsk – dette er ikke dekket av noen av de fem kildene. Verifiser at du står inne for formuleringen.
-5. **Publiseringsrutinen:** utkast i `_drafts/` er ikke live. Fire steg før push: kopier begge filer til `/blogg/`, legg dem inn i `blogg/index.html` og `blogg/index_en.html`, og legg begge URL-ene i `sitemap.xml`.
+5. **Publiseringsrutinen er utført** (4. september): begge filer kopiert til `/blogg/`, lagt inn i `blogg/index.html` og `blogg/index_en.html`, og begge URL-er lagt i `sitemap.xml`. Det som gjenstår er commit + push fra GitHub Desktop. Merk at NO-indeksen samtidig ble ryddet: fire duplikate JSON-LD-oppføringer fjernet, og en manglende oppføring for vannkopper-artikkelen lagt inn.
 6. **Lagring:** filene er lagret i GitHub-mappen (`hotvet-nettside`). OneDrive-kopien er ikke oppdatert i denne kjøringen.
 
 ## Faktasjekk
