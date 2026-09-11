@@ -1,74 +1,71 @@
-# Ukens utkast – PUBLISERT 4. september 2026
-
-> **Status:** begge artiklene er kopiert til `/blogg/`, lagt inn i `blogg/index.html`, `blogg/index_en.html` og `sitemap.xml`. Klar for push fra GitHub Desktop. Datoen i metadata står fortsatt til mandag 7. september kl. 08:00.
-
+# Ukens bloggutkast – produsert fredag 11. september 2026
 
 ## Tittel
 
-**Brystsmerter: når skal du ringe 113 – og når snakker du med fastlegen?**
-(EN: *Chest pain in Norway: when to call 113 – and when to see your GP*)
+**NO:** Fullmakt på Helsenorge: slik hjelper du noen andre med helsetjenester
+**EN:** Power of attorney on Helsenorge: helping someone else with health services in Norway
 
-Tema-kategori 3 – «Når ringer du fastlege, legevakt eller 113?»
+Planlagt publisering: **mandag 14. september 2026 kl. 08:00** (satt i `article:published_time` og schema.org `datePublished`).
 
 ## Målgruppe og SEO
 
-**Målgruppe:** Primær 2 – den bekymrede førstegangssøkeren som googler et symptom. Sekundært innflyttere og engelsktalende i Drammen (EN-versjonen).
+**Målgruppe:** Voksne som administrerer helsetjenester for noen andre – eldre foreldre, en partner som ikke bruker BankID, eller egne barn og ungdom. Treffer også sekundærmålgruppen barnefamilier og engelsktalende innflyttere til Drammen.
 
-**Nøkkelord NO:** brystsmerter, ringe 113, smerter i brystet, når ringe legevakt, 116 117, fastlege Drammen, legevakt Drammen
-**Nøkkelord EN:** chest pain Norway, when to call 113, emergency number Norway, 116 117 legevakt, English speaking GP Drammen
+**Tema-kategori:** 5 – Digital hverdag (mest overdue i rotasjonen, sist brukt 10. august)
 
-Treffer SEO-hovedmål nr. 5 (`legevakt Drammen`, informasjonell) og nr. 1 (`fastlege Drammen`) via CTA og interne lenker.
+**Primære nøkkelord:** fullmakt Helsenorge · hjelpe foreldre Helsenorge · representere andre Helsenorge · pårørende fullmakt · digital fastlege Drammen
+**EN:** Helsenorge power of attorney · fullmakt English · Norwegian health system English · English speaking GP Drammen
 
 ## Sammendrag (5 linjer)
 
-1. Hovedregelen først: nye eller uventede brystsmerter skal vurderes nå – Helsenorge sier ikke vent mer enn fem minutter.
-2. Konkret symptomliste (trykkende smerte, utstråling, tung pust, kaldsvette, kvalme) og de fem situasjonene Helsedirektoratet nevner der du bør søke helsehjelp.
-3. Kvinner, eldre og personer med diabetes kan ha andre eller svakere symptomer enn de klassiske brystsmertene.
-4. Avliver terskelen for å ringe: 761 000 anrop til 113 i 2025, alle AMK-sentraler nådde 90 %-målet på ti sekunder – vurderingen er operatørens jobb, ikke din. Og: kjør ikke selv.
-5. Avslutter med hva som ikke haster (muskulært, refluks, luftveier, angst), hvor fastlegen er riktig sted, og forebygging (blodtrykk/kolesterol) som fastlegen kan ta.
+1. En fullmakt på Helsenorge lar en annen person se helseopplysningene dine og bruke tjenester på dine vegne – den som gir fullmakten beholder full kontroll og kan slette den når som helst uten begrunnelse.
+2. Aldersgrensene: du må være fylt 16 år for å gi fullmakt, og motta­keren må være over 18. Fullmakten kan være tidsbegrenset eller løpende.
+3. Tilgangen deles i tre tjenesteområder – innsyn i registrerte opplysninger, tilgang til pasientjournal, og bruk av digitale helsetjenester – slik at du kan gi akkurat så mye tilgang situasjonen krever.
+4. For egne barn trengs ingen fullmakt, men tilgangen endrer seg med alder: journal på Helsenorge under 12 år, ingen løsning mellom 12 og 16, og fra 16 år må ungdommen selv gi deg fullmakt.
+5. Fullmakten gjelder kun Helsenorge – Helfo-kontakt, henting av reseptvarer på apotek og fremtidsfullmakt krever egne ordninger.
 
-## Filer
+## Filstier
 
-- **NO:** `blogg/_drafts/brystsmerter-nar-ringe-113.html` (1 105 ord)
-- **EN:** `blogg/_drafts/chest-pain-when-to-call-113-en.html` (1 290 ord – lengre fordi den forklarer 113/116 117/fastlege-systemet for folk som er nye i Norge)
+- **NO:** `blogg/_drafts/fullmakt-helsenorge-hjelpe-andre.html`
+- **EN:** `blogg/_drafts/helsenorge-power-of-attorney-en.html`
 
-Begge har schema.org Article + BreadcrumbList, hreflang-par, og dato satt til `2026-09-07T08:00:00+02:00`.
+Publisert slug blir `/blogg/fullmakt-helsenorge-hjelpe-andre` og `/blogg/helsenorge-power-of-attorney-en` (hreflang-taggene er allerede satt opp mot hverandre).
 
 ## Kilder som er sitert
 
-1. NAKOS. [Slik kjenner du igjen et hjerteinfarkt](https://www.helsenorge.no/forstehjelp/slik-kjenner-du-igjen-et-hjerteinfarkt/). Helsenorge, oppdatert 14. april 2026.
-2. Helsedirektoratet. [Brystsmerter ved ustabil angina](https://www.helsenorge.no/sykdom/hjerte-og-kar/ustabil-angina-pectoris/). Helsenorge, oppdatert 17. august 2026.
-3. BMJ Best Practice. [Stabil angina pectoris](https://www.helsenorge.no/sykdom/hjerte-og-kar/stabilanginapectoris/). Helsenorge.
-4. Folkehelseinstituttet. [Flere nordmenn får hjerte- og karsykdom](https://www.fhi.no/nyheter/2026/antall-nordmenn-som-har-hjerte--og-karsykdom-oker/). Hjerte- og karregisteret, 15. juni 2026.
-5. Helsedirektoratet. [Svartid på medisinsk nødnummer 113](https://www.helsedirektoratet.no/statistikk/kvalitetsindikatorer/akuttmedisinske-tjenester-utenfor-sykehus/svartid-p%C3%A5-medisinsk-n%C3%B8dnummer-113). Nasjonal kvalitetsindikator, oppdatert 2. januar 2026.
+1. [Helsenorge – Gi andre fullmakt til å bruke Helsenorge](https://www.helsenorge.no/fullmakt/bruke-helsenorge-pa-vegne-av-andre/gi-fullmakt-til-andre/) *(sist oppdatert 26. mai 2025)* – tjenesteområder, fremgangsmåte, endring/sletting, papirskjema
+2. [Helsenorge – Bruke Helsenorge på vegne av andre](https://www.helsenorge.no/fullmakt/bruke-helsenorge-pa-vegne-av-andre/) *(sist oppdatert 1. april 2025)* – fremtidsfullmakt, manglende samtykkekompetanse, fullmakt til henting av reseptvarer
+3. [Helsenorge – Om fullmakt](https://www.helsenorge.no/fullmakt/) – aldersgrenser (16/18), sperret adresse, Helfo krever egen fullmakt, Apotek 1 og Farmasiet
+4. [Helsenorge – Om pasientjournal](https://www.helsenorge.no/pasientjournal/om/) – aldersgrensene for barn (under 12 / 12–16 / fra 16), tap av tilgang ved flytting til utlandet
+5. [Helsedirektoratet – Foreldres tilgang til barns digitale innbyggertjenester](https://www.helsedirektoratet.no/veiledere/foreldres-tilgang-til-barns-digitale-innbyggertjenester-fra-helse-og-omsorgstjenesten) – anbefaling om tilrettelegging frem til 16 år
+
+Alle faktapåstander i artikkelen er hentet fra disse fem kildene. Ingen tall eller prosenter er brukt, så det er ingen statistikk å etterprøve.
 
 ## Interne lenker
 
-**NO:** `/blogg/ringe-113-legevakt-fastlege.html`, `/blogg/hva-gjor-drammen-legevakt.html`, `/blogg/blodtrykk-kolesterol-blodsukker-tallene.html`, `/blogg/arskontroll-fastlege-hva-skjer.html`, `/ledig-fastlege-drammen.html`
-**EN:** `/blogg/call-113-legevakt-gp.html`, `/blogg/what-drammen-legevakt-does-en.html`, `/blogg/blood-pressure-cholesterol-blood-sugar-numbers-en.html`, `/blogg/annual-health-check-gp.html`, `/ledig-fastlege-drammen_en.html`
+**NO:** `/blogg/slik-fornyer-du-resept-digitalt.html`, `/blogg/slik-bruker-du-helsenorge.html`, `/blogg/videokonsultasjon-fastlege-drammen.html`, `/ledig-fastlege-drammen.html`
+**EN:** `/blogg/renew-prescription-online-drammen-en.html`, `/blogg/how-to-use-helsenorge.html`, `/blogg/video-consultation-gp-drammen.html`, `/ledig-fastlege-drammen.html`
 
-Alle bekreftet at de finnes i repoet. Eneste «døde» lenker er NO↔EN-språkbytteren mellom de to nye artiklene – de går live når filene kopieres til `/blogg/`.
+Alle fire filene er verifisert å eksistere i repoet.
 
 ## Dette bør Goran se ekstra på
 
-1. **Vurder en legegjennomlesning.** Temaet bryter ingen røde linjer (akutt hjertesykdom er ikke i kategorien alvorlig kronisk sykdom som krever signert godkjenning), men det er det mest medisinsk sensitive vi har publisert. En rask lesning av en av legene før publisering er billig forsikring.
-2. **Legemiddelformuleringen i callout-boksen.** Helsenorge nevner acetylsalisylsyre (Coxor/Aspirin) ved mistanke om hjerteinfarkt. Jeg har bevisst *ikke* navngitt legemiddel eller dose, og skriver kun at operatøren kan gi råd om «et reseptfritt blodfortynnende legemiddel». Sjekk at du er komfortabel med den avveiningen – alternativet er å fjerne setningen helt.
-3. **Setningen om at man ikke skal kjøre selv.** Denne er faglig standard, men er min formulering og ikke direkte sitert fra en kilde. Vurder om den skal stå slik, eller kortes til «ring 113, ikke kjør selv».
-4. **Språkrådet i EN-versjonens callout.** Formulert som praktisk råd («si i starten av samtalen at du trenger engelsk»), ikke som en garanti om at alle operatører snakker engelsk – dette er ikke dekket av noen av de fem kildene. Verifiser at du står inne for formuleringen.
-5. **Publiseringsrutinen er utført** (4. september): begge filer kopiert til `/blogg/`, lagt inn i `blogg/index.html` og `blogg/index_en.html`, og begge URL-er lagt i `sitemap.xml`. Det som gjenstår er commit + push fra GitHub Desktop. Merk at NO-indeksen samtidig ble ryddet: fire duplikate JSON-LD-oppføringer fjernet, og en manglende oppføring for vannkopper-artikkelen lagt inn.
-6. **Lagring:** filene er lagret i GitHub-mappen (`hotvet-nettside`). OneDrive-kopien er ikke oppdatert i denne kjøringen.
+1. **Skjermbilde-navn i Helsenorge.** Artikkelen beskriver menyvalgene som «Innstillinger → Fullmakter → Opprett fullmakt». Dette er hentet fra Helsenorges egen veiledning, men grensesnittet endres av og til. Verdt en rask innlogging for å bekrefte at ordlyden stemmer før publisering.
 
-## Faktasjekk
+2. **Apotek-fullmakten er en pilot.** Teksten sier at fullmakt til å hente reseptvarer «foreløpig er under utprøving og bare kan brukes hos Apotek 1 og Farmasiet». Dette er korrekt per Helsenorges nettsider nå, men det er den setningen som eldes raskest i artikkelen.
 
-Begge utkastene er gjennomgått setning for setning mot alle fem kildene. Alle tall og sitater er bekreftet ordrett (femminuttersregelen, 5–15 minutter, symptomlisten, de fem punktene for ustabil angina, 761 000 anrop i 2025, alle AMK-sentraler nådde 90 %-målet, «vel halvparten» kan forebygges, WHO-anslaget om en tredjedel av voksne 30–79 år).
+3. **12–16-årsregelen.** Helsenorge opplyser at det jobbes med å åpne journaltilgang for denne aldersgruppen, foreløpig kun i Helse Nord. Artikkelen omtaler dagens situasjon som «foreløpig», men hvis dette rulles ut i Helse Sør-Øst må avsnittet oppdateres.
 
-Seks funn ble rettet før levering:
+4. **Manglende samtykkekompetanse.** Temaet grenser mot alvorlig kronisk sykdom, som ifølge innholdsstrategien krever legegodkjenning. Jeg har derfor holdt det på ett nøytralt avsnitt om en administrativ ordning, uten å nevne noen diagnose, og med henvisning til fastlegen. Vurder likevel om en av legene bør lese det avsnittet.
 
-- EN sa «well over half» der FHI sier «vel halvparten» → rettet til «just over half»
-- «trykkende eller klemmende, **ikke stikkende**» / «rather than sharp» var en ukildet tilføyelse som kunne få noen med skarp smerte til å avfeie den → fjernet i begge versjoner
-- Callout sa at operatøren «blir værende i telefonen og gir konkrete råd» → mykhet til kildens «i samråd med 113»
-- «ikke blir **liggende** alene» motsa kildens råd om å sette seg ned → endret til «værende»
-- FHIs forbehold «for de fleste diagnoser» manglet i påstanden om at menn har høyere rater → lagt inn
-- EN hadde to ukildede påstander (gratis å ringe 113 fra mobil uten penger, at operatøren snakker engelsk) → fjernet/myknet
+5. **EN-versjonen sier at legene snakker engelsk.** CTA-boksen i den engelske artikkelen har formuleringen «our doctors speak English». Sjekk at dette er en påstand du vil stå for på tvers av hele legegruppa.
 
-Kildelisten er dessuten supplert med dato på stabil angina-siden (13.12.2022), som er den eldste av de fem kildene.
+6. **Dobbel lagring.** Utkastene er kun lagret i GitHub-mappen (`C:\Users\dosic\Documents\GitHub\hotvet-nettside`). OneDrive-mappen var ikke tilgjengelig for denne kjøringen, så hvis du vil ha utkastene speilet der, må det gjøres manuelt.
+
+## Publisering (husk 4 stegene)
+
+Utkast i `_drafts/` blir **ikke** live. Før push må filene:
+1. kopieres til `/blogg/`
+2. legges inn i `blogg/index.html` (kort + BlogPosting i JSON-LD)
+3. legges inn i `blogg/index_en.html`
+4. legges inn i `sitemap.xml`
