@@ -1,9 +1,13 @@
 # Hotvet legesenter — Netlify redirects
 # Fikser 404-feil og forbedrer crawl-effektivitet
 
-# Gammel om-side → ny om-oss-side
-/om.html    /om-oss.html    301
-/om         /om-oss.html    301
+# Gammel om-side → ny om-oss-side (peker til kanonisk URL uten .html)
+/om.html    /om-oss    301!
+/om         /om-oss    301!
+
+# MERK: /bytt-fastlege.html er landingsside for Meta-kampanjen (uke 34–40, 2026).
+# All betalt annonsetrafikk peker hit. Må IKKE redirectes så lenge kampanjen kjører —
+# det bryter Lead-/ValgLege-sporingen og attribusjonen i Ads Manager.
 
 # i-mediene.html er duplikat av blogginnlegget → redirect til blogg (force = !)
 /i-mediene.html    /blogg/drammens-tidende-omtaler-hotvet-legesenter.html    301!
@@ -79,6 +83,12 @@
 /blogg/renew-prescription-online-drammen-en       /blogg/renew-prescription-online-drammen-en.html       301
 /blogg/gravid-drammen-fastlegens-rolle            /blogg/gravid-drammen-fastlegens-rolle.html            301
 /blogg/pregnancy-care-drammen-gp-role-en          /blogg/pregnancy-care-drammen-gp-role-en.html          301
+/blogg/influensavaksine-2026-drammen              /blogg/influensavaksine-2026-drammen.html              301
+/blogg/flu-vaccine-2026-drammen-en                /blogg/flu-vaccine-2026-drammen-en.html                301
+/blogg/rygg-og-nakkesmerter-kontorarbeid          /blogg/rygg-og-nakkesmerter-kontorarbeid.html          301
+/blogg/back-neck-pain-office-workers-en           /blogg/back-neck-pain-office-workers-en.html           301
+/blogg/brystsmerter-nar-ringe-113                 /blogg/brystsmerter-nar-ringe-113.html                 301
+/blogg/chest-pain-when-to-call-113-en             /blogg/chest-pain-when-to-call-113-en.html             301
 
 # Merk: Netlify serverer /404.html automatisk for ukjente stier.
 # Ingen catch-all-regel er nødvendig (og vil kunne skygge for statiske filer).
