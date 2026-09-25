@@ -1,73 +1,72 @@
-# Ukens utkast – generert fredag 18. september 2026
+# Ukens utkast – generert fredag 25. september 2026
 
-Planlagt publisering: **mandag 21. september 2026 kl. 08:00**
+Planlagt publisering: **mandag 28. september 2026 kl. 08:00**
 
 ## Tittel
 
-**NO:** Barnehagestart og alle infeksjonene: hvor mye sykdom er normalt – og når må barnet være hjemme?
+**NO:** Vinterinfeksjoner hos voksne: hva er vanlig – og når bør du kontakte legen?
 
-**EN:** Barnehage illnesses in Norway: how much is normal, and when must your child stay home?
+**EN:** Winter infections in Norway: what's normal, and when should you see a doctor?
 
-Temakategori: **4 – Familie og barn**
+Temakategori: **2 – Sesongens helse**
 
 ## Målgruppe og SEO
 
-**Målgruppe:** Småbarnsforeldre i Drammen, primært Primær 2 (den bekymrede førstegangssøkeren – googler symptomer og barnehageregler) og sekundærmålgruppen barnefamilier. EN-versjonen treffer engelsktalende innflyttere som ikke kjenner det norske systemet.
+**Målgruppe:** Primær 2 (den bekymrede førstegangssøkeren – googler symptomer før de vurderer fastlege) og voksne innbyggere i Drammen generelt. EN-versjonen treffer engelsktalende innflyttere som ikke kjenner fastlege/legevakt/113-systemet.
 
-**Nøkkelord NO:** når må barnet være hjemme fra barnehagen · hvor ofte er barn syke · barnehagestart sykdom · barnehagesyke · forkjølelse barn · feber barn barnehage · fastlege Drammen
+**Nøkkelord NO:** vinterinfeksjoner voksne · forkjølelse eller influensa · når kontakte lege forkjølelse · influensa symptomer voksne · lungebetennelse symptomer · fastlege Drammen
 
-**Nøkkelord EN:** barnehage sick child Norway · when to keep child home from nursery Norway · kindergarten Norway sick rules · GP Drammen English
+**Nøkkelord EN:** winter infections Norway · cold or flu Norway · when to see a doctor cold · pneumonia symptoms Norway · English-speaking GP Drammen
 
-**Sesongbegrunnelse:** Infeksjonsbølgen etter barnehagestart topper seg i september/oktober. Artikkelen ligger ute rett i søketoppen.
+**Sesongbegrunnelse:** Luftveisinfeksjoner tar seg kraftig opp fra oktober. Artikkelen legges ut rett før søketoppen.
 
 ## Sammendrag (5 linjer)
 
-1. Barn har i snitt fem forkjølelser i året mot voksnes to–tre – det er eksponering, ikke svakt immunforsvar, og hosten kan henge igjen i tre uker.
-2. FHIs hovedregel er at **allmenntilstanden** avgjør, ikke symptomene: barnet skal være feberfritt og friskt nok til å delta i normale aktiviteter.
-3. Konkrete unntak gjennomgås: diaré (to døgn symptomfri), norovirus (48 timer), vannkopper, ørebetennelse, øyekatarr, hodelus, hånd-fot-munnsyke.
-4. Håndvask med såpe og vann er det mest effektive tiltaket – håndsprit anbefales generelt ikke i barnehager og virker dårlig mot norovirus.
-5. Klar liste over når du bør kontakte fastlegen, med henvisning til 116 117 og 113 ved akutte varselsymptomer, og en myk CTA mot ledige lister hos Hotvet.
+1. Forkjølelse begynner gradvis (sår hals → nysing/rennende nese, verst dag 3) og går over på 7–10 dager; kontakt fastlegen hvis du fortsatt er syk etter to uker eller allmenntilstanden er svært dårlig (Helsenorge).
+2. Influensa kommer brått med feber, muskelsmerter, hodepine og redusert allmenntilstand; risikogrupper bør ta tidlig kontakt siden eventuell virushemmende behandling virker best innen 48 timer (FHI).
+3. Lungebetennelse gir feber, hoste med slim og tung pust – kontakt lege ved mistanke; risikogrupper er 65+, kronisk sykdom (kols/astma/hjertesykdom/diabetes/nyresykdom), svekket immunforsvar og røykere. Hos eldre kan forvirring eller fall være like viktige tegn som feber (Helsenorge).
+4. Enkel egenomsorg (hvile, væske, reseptfrie febernedsettende/smertestillende) og forebygging (håndvask, ventilasjon) trekkes frem som de mest effektive tiltakene (FHI).
+5. Tydelig terskelverk for fastlege / legevakt (116 117) / 113, med lenke til den dedikerte triage-guiden, og en myk CTA mot ledige lister hos Hotvet.
 
 ## Filstier
 
-- **NO:** `blogg/_drafts/barnehagestart-infeksjoner-nar-hjemme.html` (ca. 1 100 ord)
-- **EN:** `blogg/_drafts/nursery-infections-when-to-keep-child-home-en.html` (ca. 1 280 ord)
+- **NO:** `blogg/_drafts/vinterinfeksjoner-voksne-nar-til-legen.html` (898 ord)
+- **EN:** `blogg/_drafts/winter-infections-adults-when-to-see-doctor-en.html` (1 020 ord – tilpasset, ikke oversatt: forklarer fastlege/legevakt/113 og egenandel for lesere som ikke kjenner det norske systemet)
 
 Ved publisering: kopier til `/blogg/`, legg inn kort + BlogPosting i `blogg/index.html` og `blogg/index_en.html`, og legg begge URL-er i `sitemap.xml`.
 
 ## Kilder sitert
 
-- [FHI – Når bør barnet være hjemme fra barnehagen?](https://www.fhi.no/sm/barnehage/nar-bor-barnet-vare-hjemme-fra-barne/) (sist endret 26.08.2024)
 - [Helsenorge – Forkjølelse](https://www.helsenorge.no/sykdom/ore-nese-hals/forkjolelse/) (sist oppdatert 18.06.2026)
-- [Helsenorge – Mellomørebetennelse](https://www.helsenorge.no/sykdom/ore-nese-hals/orebetennelse/) (sist oppdatert 31.08.2026)
-- [FHI – Hygieneråd for forebygging av smittsomme sykdommer i barnehagen](https://www.fhi.no/sm/barnehage/forebygging-av-smittsomme-sykdommer/) (sist endret 30.01.2026)
-- [NAV – Omsorgspenger](https://www.nav.no/omsorgspenger) *(kun i EN-versjonen, som kontekst for utenlandske foreldre)*
+- [FHI – Fakta om influensa](https://www.fhi.no/ss/influensa/sesonginfluensa/rad-om-influensa/influensa/) (sist oppdatert 12.12.2025)
+- [Helsenorge – Lungebetennelse](https://www.helsenorge.no/sykdom/lunger-og-luftveier/lungebetennelse/) (sist oppdatert 17.08.2026)
+- [FHI – Luftveisinfeksjoner](https://www.fhi.no/sm/luftveisinfeksjoner/) (sist oppdatert 06.11.2023)
 
 ## Interne lenker
 
-**NO:** barn-feber-natt-legevakt-fastlege · vannkopper-rs-virus-skarlagensfeber-barn · barnevaksinasjonsprogrammet-2026 · ledig-fastlege-drammen
-**EN:** child-fever-night-when-to-call · chickenpox-rsv-scarlet-fever-children-en · childhood-vaccination-norway · ledig-fastlege-drammen_en
+**NO:** influensavaksine-2026-drammen · ringe-113-legevakt-fastlege · hva-gjor-drammen-legevakt · ledig-fastlege-drammen
+**EN:** flu-vaccine-2026-drammen-en · call-113-legevakt-gp · what-drammen-legevakt-does-en · ledig-fastlege-drammen_en
 
 Alle lenkemål er verifisert å eksistere i repoet.
 
 ## Røde linjer – sjekket
 
-- Ingen diagnoser: kun symptombeskrivelser og varselsymptomer med henvisning til fastlege / 116 117 / 113. ✔
-- Ingen navngitte legemidler eller doser: paracetamol og ibuprofen er **bevisst utelatt**, selv om Helsenorge navngir dem i kildeteksten. ✔
-- Ingen «kurerer», «eliminerer», «garantert» (verifisert med tekstsøk i begge filer). ✔
+- Ingen konkrete diagnoser utover de generelle temaene forkjølelse/influensa/lungebetennelse (dette er ikke "alvorlig kronisk sykdom" i strategiens forstand) – kun symptombeskrivelser med henvisning til lege. ✔
+- Ingen navngitte legemidler eller doser: omtalt kun som "reseptfrie febernedsettende og smertestillende midler" / over-the-counter pain and fever medication. ✔
+- Ingen «kurerer», «eliminerer», «garantert» (og engelske tilsvarende) – verifisert med tekstsøk i begge filer. ✔
 - Ingen pasienthistorier. ✔
 - Ingen sammenligning med andre legesentre i Drammen. ✔
-- Alvorlig kronisk sykdom ikke berørt – ingen legegodkjenning påkrevd. ✔
-- Drammen nevnt flere ganger, inkl. Rosenkrantzgata 75. ✔
+- Kols, astma, hjertesykdom, diabetes og nyresykdom nevnes kun som Helsenorges kjente risikofaktorer for lungebetennelse – ikke som diagnose hos leseren. Alvorlig kronisk sykdom (kreft, demens, alvorlige psykiske lidelser) er ikke berørt, og legegodkjenning er derfor ikke påkrevd. ✔
+- Drammen nevnt flere ganger i begge versjoner, inkl. Rosenkrantzgata 75. ✔
 
 ## Ting Goran bør se ekstra på
 
-1. **EN-avsnittet om omsorgspenger og legeerklæring.** Jeg skriver at barnehagen «generally cannot require a doctor's note» før retur ved vanlig sykdom. Dette følger av at FHI legger vurderingen til foresatte, men det er en organisatorisk påstand snarere enn en medisinsk. Enkelte barnehager i Drammen kan ha egne rutiner – vurder om formuleringen bør mykes opp til «usually does not require».
-2. **NAV-tallene er ikke tatt med.** Jeg lenker til nav.no/omsorgspenger uten å oppgi antall dager, fordi satsene endres. Hvis du vil ha tallet inn (10 dager for ett–to barn under 12 år, 15 ved tre eller flere, doblet for eneforsørgere), bør det verifiseres mot NAV på publiseringsdagen.
-3. **Ordtelling.** NO-versjonen ligger på ca. 1 100 ord, i øvre kant av rammen 800–1 100. EN-versjonen er lengre (ca. 1 280) fordi den forklarer fastlege/legevakt/113-strukturen og helsestasjon for lesere som ikke kjenner systemet. Si fra hvis du vil ha den kortet ned.
-4. **Legegjennomlesning.** Ikke påkrevd etter strategien, men avsnittet «Når bør du kontakte fastlegen?» lister varselsymptomer hos barn (slapphet, tung pust, utslett som ikke lar seg trykke bort). Det kan være verdt at en av legene kaster et blikk på den listen før publisering.
-5. **Feberdefinisjonen.** Jeg bruker FHIs formulering «over 38 grader målt i endetarmen». Sjekk at dette er i tråd med hvordan dere ellers kommuniserer feber hos barn.
+1. **Ingen pending-rad fantes i TOPIC_QUEUE.md.** Alle rader i "Kommende uker" var allerede merket drafted/approved/published/skipped, uten noen rad for 28. september. Jeg fulgte samme praksis som tidligere uker (se loggnotatene i køen) og valgte tema fra "Ideer på lager" ut fra rotasjonsprinsippet – Tema 2 (Sesongens helse) var mest overdue blant temaene som ikke er mettet. Vurder å legge inn en fast rad for hver kommende mandag i køen fremover, så dette valget blir enklere å verifisere.
+2. **Legemiddelavsnittet ("Hva kan du gjøre hjemme")** nevner reseptfrie febernedsettende/smertestillende midler generisk, uten navn eller dose, og oppfordrer til å spørre apotek/fastlege ved bruk av andre legemidler. Vurder om formuleringen er dekkende nok, eller om den bør fjernes helt for å holde artikkelen strengt symptomfokusert.
+3. **Ordtelling NO er i nedre del av rammen** (898 av 800–1 100 ord). Jeg utvidet med et eget avsnitt om egenomsorg for å komme opp fra opprinnelig 799 ord – si fra hvis du heller vil ha den kortere og mer konsentrert om symptomer/triage.
+4. **Legegjennomlesning ikke påkrevd** etter strategien (ingen alvorlig kronisk sykdom berørt), men avsnittet om lungebetennelse og risikogrupper hos eldre kan med fordel kastes et blikk på av en av legene før publisering, siden det er det mest kliniske avsnittet i artikkelen.
+5. **EN-versjonen er lengre** (1 020 ord) fordi den forklarer fastlege/legevakt/113-strukturen og egenandel for lesere som ikke kjenner det norske helsesystemet – i tråd med praksis i tidligere EN-utkast.
 
 ## Ikke gjort
 
-Ingen git commit eller push. Filene ligger klare i `blogg/_drafts/` for publisering via GitHub Desktop.
+Ingen git commit eller push. Filene ligger klare i `blogg/_drafts/` for publisering via GitHub Desktop. TOPIC_QUEUE.md er oppdatert med ny rad (status: drafted) og "Ideer på lager"-linjen er krysset ut.
