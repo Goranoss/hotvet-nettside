@@ -809,6 +809,26 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/ventetid-bytte-fastlege-drammen-2026"/>
   </url>
   <url>
+    <loc>https://hotvetlegesenter.com/blogg/drammens-tidende-plass-til-flere-tusen</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/drammens-tidende-plass-til-flere-tusen"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/drammens-tidende-plass-til-flere-tusen"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/drammens-tidende-room-for-thousands-en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/drammens-tidende-plass-til-flere-tusen"/>
+  </url>
+  <url>
+    <loc>https://hotvetlegesenter.com/blogg/drammens-tidende-room-for-thousands-en</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/blogg/drammens-tidende-plass-til-flere-tusen"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/drammens-tidende-plass-til-flere-tusen"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/drammens-tidende-room-for-thousands-en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/drammens-tidende-plass-til-flere-tusen"/>
+  </url>
+  <url>
     <loc>https://hotvetlegesenter.com/blogg/vinterinfeksjoner-voksne-nar-til-legen</loc>
     <lastmod>2026-09-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -887,6 +907,18 @@
     <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/blogg/brystsmerter-nar-ringe-113"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hotvetlegesenter.com/blogg/chest-pain-when-to-call-113-en"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/blogg/brystsmerter-nar-ringe-113"/>
+  </url>
+
+
+  <!-- I mediene -->
+  <url>
+    <loc>https://hotvetlegesenter.com/i-mediene</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/i-mediene"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/i-mediene"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/i-mediene"/>
   </url>
 
 </urlset>
