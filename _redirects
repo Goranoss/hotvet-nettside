@@ -9,11 +9,13 @@
 # All betalt annonsetrafikk peker hit. Må IKKE redirectes så lenge kampanjen kjører —
 # det bryter Lead-/ValgLege-sporingen og attribusjonen i Ads Manager.
 
-# i-mediene.html er duplikat av blogginnlegget → redirect til blogg (force = !)
-/i-mediene.html    /blogg/drammens-tidende-omtaler-hotvet-legesenter.html    301!
-/i-mediene         /blogg/drammens-tidende-omtaler-hotvet-legesenter.html    301!
-/i-mediene_en.html /blogg/drammens-tidende-covers-hotvet-legesenter-en.html  301!
-/i-mediene_en      /blogg/drammens-tidende-covers-hotvet-legesenter-en.html  301!
+# i-mediene.html er samleside for medieomtaler (begge DT-artiklene).
+# Force-redirecten til bloggen er fjernet 28.09.2026 — siden skal være synlig.
+# Clean URL uten .html:
+/i-mediene         /i-mediene.html          301
+# Ingen engelsk versjon ennå → send til engelsk blogginnlegg:
+/i-mediene_en.html /blogg/drammens-tidende-covers-hotvet-legesenter-en.html  301
+/i-mediene_en      /blogg/drammens-tidende-covers-hotvet-legesenter-en.html  301
 
 # Clean URLs (uten .html) → med .html
 /tjenester          /tjenester.html          301
