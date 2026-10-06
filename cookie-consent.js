@@ -1,4 +1,16 @@
-/* Hotvet legesenter – GDPR-kompatibel cookie consent + GA4 + Meta Pixel */
+/* Hotvet legesenter – GDPR-samtykke + GA4 med Google Consent Mode v2 + Meta Pixel
+ *
+ * Endret 06.10.2026.
+ * Før: GA4 og Meta Pixel ble lastet KUN hvis brukeren trykket «Aksepter».
+ *      Alle som avviste eller ignorerte banneret ble ikke målt i det hele tatt —
+ *      ingen økt, ingen konvertering. Det gjorde kampanjemålingen verdiløs.
+ * Nå:  Consent Mode v2. gtag lastes alltid, men med alle samtykketyper satt til
+ *      «denied» inntil brukeren sier ja. I denied-tilstand settes INGEN
+ *      informasjonskapsler og ingen identifikatorer sendes — Google mottar bare
+ *      samtykkefrie signaler og modellerer konverteringene som mangler.
+ *      Meta Pixel setter informasjonskapsler uansett, og lastes derfor fortsatt
+ *      bare ved aktivt samtykke.
+ */
 (function () {
   var GA_ID = 'G-PM4ZTZTSR9';
   var META_PIXEL_ID = '905329482341471';
@@ -6,23 +18,52 @@
   var stored = null;
   try { stored = localStorage.getItem(STORAGE_KEY); } catch (e) {}
 
-  function loadGA() {
-    if (window._hotvetGAloaded) return;
-    window._hotvetGAloaded = true;
+  /* ---- 1. gtag-stub og Consent Mode v2-standard. Må settes før gtag.js lastes. ---- */
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  window.gtag = gtag;
+
+  gtag('consent', 'default', {
+    ad_storage: 'denied',
+    ad_user_data: 'denied',
+    ad_personalization: 'denied',
+    analytics_storage: 'denied',
+    functionality_storage: 'granted',
+    security_storage: 'granted',
+    wait_for_update: 500
+  });
+
+  // Fjerner annonse-identifikatorer ved manglende samtykke, og sender gclid
+  // videre i nettadressen i stedet for i en informasjonskapsel.
+  gtag('set', 'ads_data_redaction', true);
+  gtag('set', 'url_passthrough', true);
+
+  function grantConsent() {
+    gtag('consent', 'update', {
+      ad_storage: 'granted',
+      ad_user_data: 'granted',
+      ad_personalization: 'granted',
+      analytics_storage: 'granted'
+    });
+  }
+
+  // Tidligere samtykke må oppdateres før første sidevisning sendes.
+  if (stored === 'accepted') grantConsent();
+
+  /* ---- 2. GA4 lastes alltid. Samtykkestatus styrer hva som faktisk lagres. ---- */
+  (function loadGA() {
     var s = document.createElement('script');
     s.async = true;
     s.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
     document.head.appendChild(s);
-    window.dataLayer = window.dataLayer || [];
-    window.gtag = function () { dataLayer.push(arguments); };
     gtag('js', new Date());
-    gtag('config', GA_ID, { anonymize_ip: true });
-  }
+    gtag('config', GA_ID);
+  })();
 
+  /* ---- 3. Meta Pixel – kun ved samtykke ---- */
   function loadMetaPixel() {
     if (window._hotvetMetaLoaded) return;
     window._hotvetMetaLoaded = true;
-    // Standard Meta Pixel base code
     !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
     n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
     n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
@@ -32,15 +73,19 @@
     fbq('track', 'PageView');
   }
 
+  /* ---- 4. Hendelsessporing – bindes alltid.
+            Uten samtykke sendes hendelsene som samtykkefrie signaler. ---- */
   function trackEvents() {
-    // Send pageview to Meta Pixel with each navigation (already fired on load)
-    // Track common conversion actions
+    if (window._hotvetEventsBound) return;
+    window._hotvetEventsBound = true;
+
     document.querySelectorAll('a[href^="tel:"]').forEach(function (a) {
       a.addEventListener('click', function () {
         if (window.gtag) gtag('event', 'contact_phone_click');
         if (window.fbq) fbq('track', 'Contact');
       });
     });
+
     document.querySelectorAll('a[href*="helsenorge.no"]').forEach(function (a) {
       a.addEventListener('click', function () {
         if (window.gtag) gtag('event', 'helsenorge_click', { destination: a.href });
@@ -49,12 +94,24 @@
     });
   }
 
+  function onReady(fn) {
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', fn);
+    } else {
+      fn();
+    }
+  }
+
+  onReady(trackEvents);
+  if (stored === 'accepted') loadMetaPixel();
+
+  /* ---- 5. Samtykkebanner ---- */
   function setConsent(value) {
     try { localStorage.setItem(STORAGE_KEY, value); } catch (e) {}
     var b = document.getElementById('hotvet-consent-banner');
     if (b) b.parentNode.removeChild(b);
     if (value === 'accepted') {
-      loadGA();
+      grantConsent();
       loadMetaPixel();
       trackEvents();
     }
@@ -70,26 +127,14 @@
     div.id = 'hotvet-consent-banner';
     div.setAttribute('role', 'dialog');
     div.setAttribute('aria-label', 'Samtykke til informasjonskapsler');
-    div.innerHTML = '<div class="hcb-text"><h3>Vi bruker informasjonskapsler</h3>Vi bruker analyseverktøy (Google Analytics og Meta Pixel) for å forstå hvordan nettsiden brukes og forbedre tjenesten. Ingen personopplysninger lagres uten ditt samtykke. Du kan trekke samtykket tilbake når som helst.</div><div class="hcb-actions"><button id="hotvet-consent-decline" type="button">Avvis</button><button id="hotvet-consent-accept" type="button">Aksepter</button></div>';
+    div.innerHTML = '<div class="hcb-text"><h3>Vi bruker informasjonskapsler</h3>Vi bruker analyseverktøy (Google Analytics og Meta Pixel) for å forstå hvordan nettsiden brukes og forbedre tjenesten. Trykker du «Avvis», lagres ingen informasjonskapsler, og vi mottar kun anonym og samlet statistikk uten opplysninger som kan knyttes til deg. Du kan trekke samtykket tilbake når som helst.</div><div class="hcb-actions"><button id="hotvet-consent-decline" type="button">Avvis</button><button id="hotvet-consent-accept" type="button">Aksepter</button></div>';
     document.body.appendChild(div);
 
     document.getElementById('hotvet-consent-accept').addEventListener('click', function () { setConsent('accepted'); });
     document.getElementById('hotvet-consent-decline').addEventListener('click', function () { setConsent('declined'); });
   }
 
-  if (stored === 'accepted') {
-    loadGA();
-    loadMetaPixel();
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', trackEvents);
-    } else {
-      trackEvents();
-    }
-  } else if (stored !== 'declined') {
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', showBanner);
-    } else {
-      showBanner();
-    }
+  if (stored !== 'accepted' && stored !== 'declined') {
+    onReady(showBanner);
   }
 })();
