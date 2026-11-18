@@ -11,30 +11,39 @@
 
 # i-mediene.html er samleside for medieomtaler (begge DT-artiklene).
 # Force-redirecten til bloggen er fjernet 28.09.2026 — siden skal være synlig.
-# Clean URL uten .html:
-/i-mediene         /i-mediene.html          301
 # Ingen engelsk versjon ennå → send til engelsk blogginnlegg:
 /i-mediene_en.html /blogg/drammens-tidende-covers-hotvet-legesenter-en.html  301
 /i-mediene_en      /blogg/drammens-tidende-covers-hotvet-legesenter-en.html  301
 
-# Clean URLs (uten .html) → med .html
-/tjenester          /tjenester.html          301
-/teamet             /teamet.html             301
-/priser             /priser.html             301
-/om-oss             /om-oss.html             301
-/kontakt            /kontakt.html            301
-/informasjon        /informasjon.html        301
-/apningstider       /apningstider.html       301
-/ledig-fastlege-drammen  /ledig-fastlege-drammen.html  301
+# Kanoniske URL-er er uten .html (se <link rel="canonical"> og sitemap.xml).
+# Live-test 18.11.2026: både /priser og /priser.html svarte 200 — to URL-er for samme side.
+# Netlify serverer den rene URL-en direkte, så .html-varianten sendes videre med tvungen 301.
+# Tvungen (!) er nødvendig: uten utropstegn vinner den statiske fila og regelen utløses aldri.
+# /bytt-fastlege.html er HOLDT UTENFOR — annonselandingsside, egen canonical, sporing.
 
-# Engelske sider clean URLs
-/tjenester_en       /tjenester_en.html       301
-/teamet_en          /teamet_en.html          301
-/priser_en          /priser_en.html          301
-/om-oss_en          /om-oss_en.html          301
-/kontakt_en         /kontakt_en.html         301
-/informasjon_en     /informasjon_en.html     301
-/apningstider_en    /apningstider_en.html    301
+# Norske sider
+/tjenester.html                           /tjenester                      301!
+/teamet.html                              /teamet                         301!
+/priser.html                              /priser                         301!
+/om-oss.html                              /om-oss                         301!
+/kontakt.html                             /kontakt                        301!
+/informasjon.html                         /informasjon                    301!
+/apningstider.html                        /apningstider                   301!
+/ledig-fastlege-drammen.html              /ledig-fastlege-drammen         301!
+/i-mediene.html                           /i-mediene                      301!
+/vaksiner-for-1960.html                   /vaksiner-for-1960              301!
+/vaksiner-1960-61.html                    /vaksiner-1960-61               301!
+/vaksiner-etter-1961.html                 /vaksiner-etter-1961            301!
+
+# Engelske sider
+/tjenester_en.html                        /tjenester_en                   301!
+/teamet_en.html                           /teamet_en                      301!
+/priser_en.html                           /priser_en                      301!
+/om-oss_en.html                           /om-oss_en                      301!
+/kontakt_en.html                          /kontakt_en                     301!
+/informasjon_en.html                      /informasjon_en                 301!
+/apningstider_en.html                     /apningstider_en                301!
+/index_en.html                            /index_en                       301!
 
 # Blogg clean URLs
 /blogg/bytte-fastlege-drammen    /blogg/bytte-fastlege-drammen.html    301
@@ -94,3 +103,9 @@
 
 # Merk: Netlify serverer /404.html automatisk for ukjente stier.
 # Ingen catch-all-regel er nødvendig (og vil kunne skygge for statiske filer).
+
+# _old-design/ er den gamle nettsiden. Den svarte 200 for alle 18.11.2026 og inneholder
+# kvalitetspåstandene som ble fjernet fra de publiserte sidene 15.10.2026
+# («trygge hender», «kortere ventetid», «erfarne leger, høy kvalitet», «vi lytter»).
+# robots.txt hindrer ikke tilgang — kun indeksering. Derfor tvungen 301 til forsiden.
+/_old-design/*    /    301!

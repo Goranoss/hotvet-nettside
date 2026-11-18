@@ -1041,4 +1041,35 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/i-mediene"/>
   </url>
 
+  <!-- Vaksinesider (lagt inn 18.11.2026) -->
+  <url>
+    <loc>https://hotvetlegesenter.com/vaksiner-for-1960</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/vaksiner-for-1960"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/vaksiner-for-1960"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/vaksiner-for-1960"/>
+  </url>
+
+  <url>
+    <loc>https://hotvetlegesenter.com/vaksiner-1960-61</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/vaksiner-1960-61"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/vaksiner-1960-61"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/vaksiner-1960-61"/>
+  </url>
+
+  <url>
+    <loc>https://hotvetlegesenter.com/vaksiner-etter-1961</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="no" href="https://hotvetlegesenter.com/vaksiner-etter-1961"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hotvetlegesenter.com/vaksiner-etter-1961"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hotvetlegesenter.com/vaksiner-etter-1961"/>
+  </url>
+
 </urlset>
